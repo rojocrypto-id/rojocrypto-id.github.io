@@ -1,0 +1,21 @@
+[
+  
+  {
+    "title"    : "Staking",
+    "category" : "Kamus",
+    "url"      : "/staking/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Staking adalah istilah dalam cryptocurrency dimana seorang pemilik crypto menyimpan dan mengunci aset crypto mereka pada aplikasi dompet crypto dalam jangka waktu tertentu. Selama proses penguncian tersebut, crypto yang di staking tidak dapat diki...",
+    "content"  : "Staking adalah istilah dalam cryptocurrency dimana seorang pemilik crypto menyimpan dan mengunci aset crypto mereka pada aplikasi dompet crypto dalam jangka waktu tertentu. Selama proses penguncian tersebut, crypto yang di staking tidak dapat dikirimka kemana pun.\n\nFitur staking seperti ini biasanya hanya terdapat pada crypto yang menggunakann konsensus Proof of Stake (POS). Contoh crypto yang dapat di staking antara lain adalah Ethereum, Cardano, Solana, Polkadot, BNB dan masih banyak lagi.\n"
+} ,
+  
+  {
+    "title"    : "KYC",
+    "category" : "Kamus",
+    "url"      : "/KYC/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "KYC atau Know Your Customer adalah sebuah proses yang dilakukan oleh exchange untuk memverifikasi identitas penggunanya guna memenuhi regulasi. Dalam prosesnya, pengguna akan diminta untuk memasukkan beberapa dokume seperti KTP, paspor atau yang l...",
+    "content"  : "KYC atau Know Your Customer adalah sebuah proses yang dilakukan oleh exchange untuk memverifikasi identitas penggunanya guna memenuhi regulasi. Dalam prosesnya, pengguna akan diminta untuk memasukkan beberapa dokume seperti KTP, paspor atau yang lainnya.\n\nKYC merupakan hal yang wajib dilakukan jika kita ingin menggunakan CEX (Centralized Exchange). Tidak hanya untuk exchange lokal, tapi juga seluruh CEX yang ada di dunia ini.\n\nHal ini diperlukan untuk mengurangi tindak kejahatan pencucian uang dan semacamnya. Pengguna yang tidak melakukan KYC biasanya tidak dapat melakukan jual-beli di exchange yang ia gunakan.\n"
+} 
+  
+]
