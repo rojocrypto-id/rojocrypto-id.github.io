@@ -108,6 +108,8 @@ Harga Bitcoin hari ini dapat kalian lihat dibawah ini:
 
 ----Gunakan widget dari coingecko atau semacamnya
 
+<script src="/cg-widget.js"></script>
+
 ## Bisakah Saya Membeli Kurang dari 1 Bitcoin?
 
 Tentu saja. Walaupun saat ini harga Bitcoin misalnya 1 miliar rupiah, kalian tidak perlu membeli 1 Bitcoin.
