@@ -92,11 +92,10 @@ Seperti yang saudah saya jelaskan sebelumnya, silahkan gunakan kode *referral* s
 
 ![Kode referral pintu](/assets/image/ref-pintu.png)
 
-Cara Menggunakan Tokocrypto untuk Membeli Bitcoin
 
-
-Cara Menggunakan Luno untuk Membeli Bitcoin
-Cara Menggunakan Indodax untuk Membeli Bitcoin
+## Cara Menggunakan Tokocrypto untuk Membeli Bitcoin
+## Cara Menggunakan Luno untuk Membeli Bitcoin
+## Cara Menggunakan Indodax untuk Membeli Bitcoin
 
 ## Berapa Banyak Bitcoin yang Harus Saya Beli?
 
