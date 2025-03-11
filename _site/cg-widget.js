@@ -1,0 +1,2 @@
+<script src="https://widgets.coingecko.com/gecko-coin-price-chart-widget.js"></script>
+<gecko-coin-price-chart-widget locale="en" outlined="true" initial-currency="usd"></gecko-coin-price-chart-widget>

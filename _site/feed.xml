@@ -1,187 +1,172 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="id" /><updated>2025-03-09T05:09:37+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rojocrypto</title><subtitle>Tutorial Bitcoin dan Cryptocurrency terlengkap</subtitle><entry><title type="html">Staking</title><link href="http://localhost:4000/staking/" rel="alternate" type="text/html" title="Staking" /><published>2025-01-01T00:00:00+07:00</published><updated>2025-01-01T00:00:00+07:00</updated><id>http://localhost:4000/staking</id><content type="html" xml:base="http://localhost:4000/staking/"><![CDATA[<p><em>Staking</em> adalah istilah dalam <em>cryptocurrency</em> dimana seorang pemilik <em>crypto</em> menyimpan dan mengunci aset <em>crypto</em> mereka pada aplikasi dompet <em>crypto</em> dalam jangka waktu tertentu. Selama proses penguncian tersebut, <em>crypto</em> yang di <em>staking</em> tidak dapat dikirimka kemana pun.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="id" /><updated>2025-03-11T14:06:30+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rojocrypto</title><subtitle>Tutorial Bitcoin dan Cryptocurrency terlengkap</subtitle><entry><title type="html">Cara Membeli Bitcoin di 2025 Menggunakan Rekening Bank atau E-wallet</title><link href="http://localhost:4000/cara-membeli-bitcoin/" rel="alternate" type="text/html" title="Cara Membeli Bitcoin di 2025 Menggunakan Rekening Bank atau E-wallet" /><published>2025-01-02T00:00:00+07:00</published><updated>2025-01-02T00:00:00+07:00</updated><id>http://localhost:4000/cara-membeli-bitcoin</id><content type="html" xml:base="http://localhost:4000/cara-membeli-bitcoin/"><![CDATA[<p>Kalian mungkin pernah mendengar nama Bitcoin, entah itu di media sosial seperti YouTube, Instagram, Facebook, dari teman kalian, atau dari situs yang pernah kalian baca. Kemudian kalian tertarik untuk berinvestasi di Bitcoin. Selamat, kalian sedang membaca artikel yang tepat.</p>
 
-<p>Fitur <em>staking</em> seperti ini biasanya hanya terdapat pada <em>crypto</em> yang menggunakann konsensus <em>Proof of Stake (POS)</em>. Contoh <em>crypto</em> yang dapat di <em>staking</em> antara lain adalah Ethereum, Cardano, Solana, Polkadot, BNB dan masih banyak lagi.</p>]]></content><author><name></name></author><category term="Kamus" /><summary type="html"><![CDATA[Staking adalah istilah dalam cryptocurrency dimana seorang pemilik crypto menyimpan dan mengunci aset crypto mereka pada aplikasi dompet crypto dalam jangka waktu tertentu. Selama proses penguncian tersebut, crypto yang di staking tidak dapat dikirimka kemana pun. Fitur staking seperti ini biasanya hanya terdapat pada crypto yang menggunakann konsensus Proof of Stake (POS). Contoh crypto yang dapat di staking antara lain adalah Ethereum, Cardano, Solana, Polkadot, BNB dan masih banyak lagi.]]></summary></entry><entry><title type="html">KYC</title><link href="http://localhost:4000/KYC/" rel="alternate" type="text/html" title="KYC" /><published>2025-01-01T00:00:00+07:00</published><updated>2025-01-01T00:00:00+07:00</updated><id>http://localhost:4000/KYC</id><content type="html" xml:base="http://localhost:4000/KYC/"><![CDATA[<p>KYC atau <em>Know Your Customer</em> adalah sebuah proses yang dilakukan oleh <em>exchange</em> untuk memverifikasi identitas penggunanya guna memenuhi regulasi. Dalam prosesnya, pengguna akan diminta untuk memasukkan beberapa dokume seperti KTP, paspor atau yang lainnya.</p>
+<p>Artikel ini saya buat untuk kalian yang belum pernah sama sekali berinvesatasi Bitcoin. Jadi akan saya buat sedetail mungkin agar lebih mudah untuk kalian mengerti.</p>
+
+<p>Saya paham bahwa mencoba sesuatu yang baru terkadang terlihat begitu membingungkan. Saya sering mendapatkan pertanyaan serupa “bagaimana cara investasi di Bitcoin?” di seluruh kanal media sosial saya, entah itu di YouTube, Tiktok, atau pun Instagram.</p>
+
+<p>Jika kalian menemui kebingungan di salah satu poin pada artikel ini, jangan sungkan untuk menanyakannya ke saya melalui salah satu sosial media saya (YouTube, Instagram, TikTok). Nanti akan saya coba bantu jawab sebisa mungkin.</p>
+
+<h2 id="kenapa-harus-beli-bitcoin">Kenapa Harus Beli Bitcoin?</h2>
+
+<p>Bitcoin merupakan salah satu aset digital dengan performa terbaik sepanjang sejarah. Kini Bitcoin juga telah diakui sebagai aset yang layak diperhitungkan, semakin banyak yang berinvestasi di Bitcoin, baik perorangan maupun perusahaan.</p>
+
+<p>Pertanyaan selanjutnya yang paling banyak ditanyakan di channel YouTube saya adalah “Kapan waktu yang tepat untuk membeli Bitcoin”. Jawabannya tergantung dari tujuan kalian membeli Bitcoin itu sendiri.</p>
+
+<p>Jika kalian membeli Bitcoin untuk trading harian (beli di harga rendah lalu menjualnya saat harganya naik), maka kalian butuh mempelajari banyak strategi trading. Dan saya pribadi menghindari cara ini.</p>
+
+<p>Tapi jika tujuan investasi kalian adalah untuk jangka panjang, maka ada beberapa cara yang dapet kalian implementasikan saat membeli Bitcoin. Beberapa diantaranya adalah:</p>
+
+<p><strong>Dollar Cost Averaging (DCA)</strong></p>
+
+<p>DCA merupakan salah satu strategi investasi yang populer, tidak hanya di Bitcoin, tapi juga di instrumen investasi lainnya seperti saham dan reksadana. Inti dari strategi ini adalah kalian membeli Bitcoin secara rutin terlepas dari harga Bitcoin sedang baik ataupun turun.</p>
+
+<p>Jadi, alih-alih membeli Bitcoin dalam satu waktu dengan modal besar (misalnya 10 juta rupiah). Kalian dapat membeli Bitcoin setiap minggu sebanyak 2,5 juta rupiah.</p>
+
+<p>Strategi ini menjadi kesukaan para investor karena mengindari kita dari “pusingnya” mencoba “timing the market”. DCA juga cocok untuk kalian yang ingin berinvestasi Bitcoin dalam jangka panjang.</p>
+
+<p><strong>Beli di harga berapapun</strong></p>
+
+<p>Ini cocok untuk kalian yang ingin membeli Bitcoin dan disimpan dalam jangka panjang. Misal 2 sampai 5 tahun ke depan.</p>
+
+<p>Kalian tidak perlu berapa harga Bitcoin hari ini, beli saja lalu simpan untuk jangka panjang.</p>
+
+<h2 id="beli-saat-harganya-turun">Beli saat harganya turun</h2>
+
+<p>Kalian dapat memperhatikan harga Bitcoin selama beberapa waktu. Misalnya beberapa hari atau beberapa minggu melalui situs seperti Coingecko.com dan Coinmarketcap.</p>
+
+<p>Kemudian setelah melihat harga Bitcoin turun, kalian dapat segera membuka <em>exchange</em> dan membeli Bitcoin.</p>
+
+<h2 id="dimana-saya-dapat-membeli-bitcoin">Dimana Saya Dapat Membeli Bitcoin?</h2>
+
+<p>Di tahun 2025 ini membeli Bitcoin di Indonesia jauh lebih mudah karena jumlah <em>exchange</em> lokal yang telah teregulasi sangatlah banyak jumlahnya. Berbeda dengan 10 tahun lalu yang hanya ada 1 <em>exchange</em> lokal yang tersedia.</p>
+
+<p>Menggunakan <em>exchange</em> lokal teregulasi sangat penting karena setiap <em>exchange</em> tersebut harus mematuhi serangkaian peraturan yang ditetapkan oleh pemerintah. Dengan begitu kita sebagai pengguna lebih tenang dalam menggunakannya.</p>
+
+<p>Metode deposit yang ditawarkan juga lebih beragam. Selain menggunakan transfer bank, kini kita dapat mendepositkan uang ke <em>exchange</em> menggunakan <em>virtual account</em>, <em>e-wallet</em> dan lainnya.</p>
+
+<h3 id="exchange-lokal-untuk-membeli-bitcoin">Exchange Lokal untuk Membeli Bitcoin</h3>
+
+<p>Dibawah ini adalah beberapa <em>exchange</em> lokal yang saya rekomendasikan dan saya sendiri memang telah menggunakannya. Daftar dibawah ini mungkin akan berubah dari waktu ke waktu seiring dengan bertambahnya <em>exchange</em> lokal yang saya coba.</p>
+
+<p><strong>Pintu</strong></p>
+
+<p>Saya selalu merasa bahwa Pintu adalah Coinbase-nya Indonesia. Aplikasi ini memiliki tampilan yang simpel dan mudah digunakan, sehingga tidak membuat bingung para pemula yang baru mencoba berinvestasi Bitcoin.</p>
+
+<p>Jika kalian benar-benar pemula dan baru pertama kali ingin berinvestasi di Bitcoin, saya sangat merekomendasikan untuk menggunakan aplikasi Pintu. Jangan lupa untuk menggunakan kode referral saya dibawah ini:</p>
+
+<p>@yusyulianto (gunakan gambar screenshot supaya ngga terdeteksi Google)</p>
+
+<p>Dengan menggunakan kode <em>referral</em> saya, kalian akan mendapatkan bonus sebesar 0.0004% setiap kali membeli atau pun menjual Bitcoin (atau crypto lainnya). Dengan kata lain, jumlah Bitcoin yang kalian dapatkan akan lebih banyak.</p>
+
+<p><strong>Tokocrypto</strong></p>
+
+<p><em>Exchange</em> lokal berikutnya yang juga secara rutin saya gunakan untuk berinvestasi Bitcoin adalah Tokocrypto. Salah satu fitur Tokocrypto yang saya sukai adalah adanya integrasi dengan <a href="https://blubybcadigital.id/">blu</a>.</p>
+
+<p>Dengan mengintegrasika akun Tokocrypto dan blu, kita dapat melakukan deposit dan penarikan dengan mudah dan cepat. Cocok untuk kalian para pengguna blu.</p>
+
+<p><strong>Luno</strong></p>
+
+<p>Ini merupakan <em>exchange</em> lokal yang underrated. Jarang sekali orang yang membahasnya di internet, terutama para pengguna <em>crypto</em> di Indonesia.</p>
+
+<p>Alasan kenapa saya menyukai aplikasi ini adalah karena Luno memiliki beberapa kelebihan yang tidak dimiliki oleh <em>exchange</em> lokal lainnya, seperti: biaya <em>withdraw</em> Bitcoin yang dinamis, antarmuka yang simpel dan sederhana, dan masih banyak lagi.</p>
+
+<p><strong>Indodax</strong></p>
+
+<p>Ini merupakan <em>exchange</em> lokal tertua dan pertama di Indonesia. <em>Exchange</em> ini sudah ada sejak tahun 2012, jauh sebelum <em>exchange</em> lokal lainnya ada.</p>
+
+<p>Kelebihan Indodax dibanding <em>exchange</em> lokal lainnya adalah Indodax memiliki likuiditas yang tinggi. Artinya, kalian dapat membeli dan menjual Bitcoin di Indodax dengan cepat.</p>
+
+<h2 id="cara-menggunakan-pintu-untuk-membeli-bitcoin">Cara Menggunakan Pintu untuk Membeli Bitcoin</h2>
+
+<p>Kalian perlu mengunduh Pintu terlebih dahulu di App Store atau Play Store (silahkan sesuaikan dengan platform yang kalian gunakan). Kemudian silahkan buat akun jika kalian belum memilikinya.</p>
+
+<p>Seperti yang saudah saya jelaskan sebelumnya, silahkan gunakan kode <em>referral</em> saya dibawah ini untuk mendapatka bonus 0.0004% secara permanen:</p>
+
+<p>@yusyulianto (pakai screenshot)</p>
+
+<p>Cara Menggunakan Tokocrypto untuk Membeli Bitcoin</p>
+
+<p>Cara Menggunakan Luno untuk Membeli Bitcoin
+Cara Menggunakan Indodax untuk Membeli Bitcoin</p>
+
+<h2 id="berapa-banyak-bitcoin-yang-harus-saya-beli">Berapa Banyak Bitcoin yang Harus Saya Beli?</h2>
+
+<p>Tidak ada jawaban pasti untuk pertanyaan ini. Semuanya terserah kalian sebagai pemilik uang.</p>
+
+<p>Namun saran saya, jika kalian memang baru pertama kali mencoba berinvestasi Bitcoin, beli dengan jumlah kecil terlebih dulu. Entah itu 100 ribu, 200 ribu atau 1 juta rupiah.</p>
+
+<p>Biasakan diri kalian familiar dengan <em>exchange</em> tempat kalian membeli Bitcoin sambil terus mempelajari lebih dalam mengenai Bitcoin. Setelah kalian cukup yakin, kalian dapat membeli Bitcoin kembali dengan jumlah yang lebih banyak.</p>
+
+<h2 id="berapa-harga-1-bitcoin">Berapa Harga 1 Bitcoin?</h2>
+
+<p>Harga Bitcoin selalu berubah dari waktu ke waktu. Terkadang naik, terkadang turun. Naik turunnya Bitcoin dipengaruhi oleh permintaan pasar.</p>
+
+<p>Semakin banyak orang yang membeli Bitcoin, semakin naik harganya. Semakin banyak orang yang menjual Bitcoin miliknya, maka akan turun harganya.</p>
+
+<p>Harga Bitcoin hari ini dapat kalian lihat dibawah ini:</p>
+
+<script src="https://widgets.coingecko.com/gecko-coin-price-chart-widget.js"></script>
+
+<gecko-coin-price-chart-widget locale="en" outlined="true" initial-currency="idr"></gecko-coin-price-chart-widget>
+
+<h2 id="bisakah-saya-membeli-kurang-dari-1-bitcoin">Bisakah Saya Membeli Kurang dari 1 Bitcoin?</h2>
+
+<p>Tentu saja. Walaupun saat ini harga Bitcoin misalnya 1 miliar rupiah, kalian tidak perlu membeli 1 Bitcoin.</p>
+
+<p>Kalian dapat membeli pecahan Bitcoin yang disebut sebagai <a href="https://rojocrypto.com/satoshi/">Satoshi</a>. 1 Bitcoin terdiri dari 100.000.000 Satoshi. 1 Satoshi setara dengan 0.00000001 Bitcoin.</p>
+
+<p>Dengan kata lain, kalian dapat membeli Bitcoin bahkan mulai dari 10 ribu rupiah. Jadi tidak perlu khawatir ketika melihat harga Bitcoin yang sudah mencapai miliaran.</p>
+
+<p>Sama seperti emas, kita tidak perlu membeli 1 kilogram emas secara langsung. Kita dapat membeli beberapa gram saja sebagai permulaan.</p>
+
+<h2 id="cara-lain-membeli-bitcoin">Cara Lain Membeli Bitcoin</h2>
+
+<p>Membeli Bitcoin melalui <em>exchange</em> mewajibkan kalian untuk melakukan <a href="https://rojocrypto.com/kyc/">KYC</a> . Kalian harus memfoto wajah dan KTP untuk dapat menggunakan <em>exchange</em> tersebut secara penuh.</p>
+
+<p>Sebagian diantara kalian mungkin ada yang kurang nyama untuk membagikan foto wajah dan KTP ke <em>exchange</em>. Lantas, adakah cara alternatif untuk membeli Bitcoin tanpa melalui <em>exchange</em>? Tentu saja ada.</p>
+
+<p>Kalian dapat membeli Bitcoin dari pengguna Bitcoin lainnya. Kalian dapat mencarinya di internet, seperti di komunitas Bitcoin. Namun tentu saja cara ini datang dengan resikonya sendiri.</p>
+
+<p>Kalian harus membeli Bitcoin dari orang yang memang terpercaya. Jika tidak, ada resiko uang kalian akan hilang.</p>
+
+<p>Jika kalian memiliki teman yang sudah lebih dahulu merupakan pengguna Bitcoin, maka kalian beruntung. Belilah dari teman kalian tersebut.</p>
+
+<p>Buat kesepatakan dengannya mengenai harga dan metode pembayaran. Membeli Bitcoin secara langsung melalui orang yang dikenal dapat meminimalkan potensi penipuan.</p>
+
+<h2 id="cara-membuat-dompet-bitcoin">Cara Membuat Dompet Bitcoin</h2>
+
+<p>Setelah selesai membeli Bitcoin di <em>exchange</em>, sebenarnya kalian dapat membiarkannya di <em>exchange</em>. Namun saya tidak merekomendasikan hal tersebut karena ada banyak potensi buruk yang dapat terjadi.</p>
+
+<p><em>Exchange</em> tempat kalian membeli Bitcoin bisa saja terkena <em>hack</em>. Jika itu terjadi, maka Bitcoin yang kalian simpan di <em>exchange</em> tersebut akan dalam masalah. Kemungkinan terburuknya kalian akan kehilangan Bitcoin kalian yang berharga itu.</p>
+
+<p>Peretasan <em>exchange</em> bukan merupakan hal yang sekali atau dua kali terjadi. Sudah banyak <em>exchange crypto</em> yang pernah mengalami peretasan. Mulai dari Binance di tahun 2019, Mt. Gox di tahun 2014 hingga yang terbaru yaitu Indodax di tahun 2024.</p>
+
+<p>Indodax sendiri memang bertanggung jawab penuh atas peretasan tersebut. Namun tetap saja, para penggunanya kalang kabut ketika mengetahui berita Indodax terkena <em>hack</em>.</p>
+
+<p>Banyak <em>exchange</em> lain yang tidak “sebaik” Indodax dan tidak mengembalikan Bitcoin milik penggunanya. Contohnya saja Mt. Gox. Para pengguna Mt. Gox kehilangan Bitcoin yang mereka simpan di <em>exchange</em> tersebut.</p>
+
+<p>Karenanya, menyimpan Bitcoin di dompet kita sendiri sangatlah penting. Jadi jika sewaktu-waktu <em>exchange</em> yang kita gunakan terkena <em>hack</em> atau bangkrut, Bitcoin yang pernah kita beli tetap aman di dompet kita.</p>
+
+<p>Dompet atau <em>wallet</em> Bitcoin terbagi menjadi 2 jenis. Yaitu <em>software wallet</em> dan <em>hardware wallet</em>. Seperti namanya, <em>software wallet</em> merupakan dompet Bitcoin dalam bentuk aplikasi Android ataupun aplikasi di PC. Umumnya kita dapat menggunakan <em>software wallet</em> secara gratis.</p>
+
+<p>Sedangkan <em>hardware wallet</em> adalah dompet Bitcoin dalam bentuk perangkat keras tersendiri. Untuk dapat menggunakan <em>hardware wallet</em>, kita harus membelinya. Setiap pabrikan <em>hardware wallet</em> memiliki model yang berbeda-beda dengan harga yang bervariasi pula.</p>
+
+<p>Contoh <em>software wallet</em> yang dapat kalian gunakan untuk menyimpan Bitcoin adalah Electrum, Green. Sedangkan contoh <em>hardware wallet</em> adalah Trezor, Ledger, Safepal dan masih banyak lagi.</p>
+
+<h2 id="kesimpulan">Kesimpulan</h2>
+
+<p>Jika kalian telah membaca seluruh isi artikel ini, maka selamat. Seharusnya sekarang kalian telah berhasil membeli Bitcoin pertama kalian. Jaga baik-baik Bitcoin tersebut sesedikit apa pun jumlahnya, karena siapa tahu nilainya akan melonjak di masa yang akan datang.</p>
+
+<p>Semoga artikel ini benar-benar membantu kalian, terutama untuk kalian yang memang baru pertama kali ingin membeli Bitcoin. Dan jika tidak keberatan, bagikan artikel ini ke media sosial kalian seperti Facebook, X atau Instagram.</p>
+
+<p>Bagi kalian hanya sekedar membagikan artikel ini ke media sosial mungkin terlihat remeh dan tidak berarti apa-apa Namun percayalah, bagi kami, itu sangat berarti.</p>
+
+<p>Dengan membagikan artikel ini ke media sosial kalian, kalian telah membantu teman-teman kalian mengenal Bitcoin serta membantu Rojocrypto untuk tetap ada, setidaknya untuk beberapa bulan ke depan.</p>
+
+<p>Artikel ini akan terus saya perbarui agar tetap relevan dibaca kapan pun. Bitcoin akan terus berkembang, <em>exchange</em> yang saya rekomendasikan juga akan silih berganti, jadi tidak ada salahnya kalian kembali lagi ke artikel ini, siapa tahu ada perubahan yang perlu kalian ketahui.</p>]]></content><author><name></name></author><category term="Kamus" /><summary type="html"><![CDATA[Kalian mungkin pernah mendengar nama Bitcoin, entah itu di media sosial seperti YouTube, Instagram, Facebook, dari teman kalian, atau dari situs yang pernah kalian baca. Kemudian kalian tertarik untuk berinvestasi di Bitcoin. Selamat, kalian sedang membaca artikel yang tepat. Artikel ini saya buat untuk kalian yang belum pernah sama sekali berinvesatasi Bitcoin. Jadi akan saya buat sedetail mungkin agar lebih mudah untuk kalian mengerti. Saya paham bahwa mencoba sesuatu yang baru terkadang terlihat begitu membingungkan. Saya sering mendapatkan pertanyaan serupa “bagaimana cara investasi di Bitcoin?” di seluruh kanal media sosial saya, entah itu di YouTube, Tiktok, atau pun Instagram. Jika kalian menemui kebingungan di salah satu poin pada artikel ini, jangan sungkan untuk menanyakannya ke saya melalui salah satu sosial media saya (YouTube, Instagram, TikTok). Nanti akan saya coba bantu jawab sebisa mungkin. Kenapa Harus Beli Bitcoin? Bitcoin merupakan salah satu aset digital dengan performa terbaik sepanjang sejarah. Kini Bitcoin juga telah diakui sebagai aset yang layak diperhitungkan, semakin banyak yang berinvestasi di Bitcoin, baik perorangan maupun perusahaan. Pertanyaan selanjutnya yang paling banyak ditanyakan di channel YouTube saya adalah “Kapan waktu yang tepat untuk membeli Bitcoin”. Jawabannya tergantung dari tujuan kalian membeli Bitcoin itu sendiri. Jika kalian membeli Bitcoin untuk trading harian (beli di harga rendah lalu menjualnya saat harganya naik), maka kalian butuh mempelajari banyak strategi trading. Dan saya pribadi menghindari cara ini. Tapi jika tujuan investasi kalian adalah untuk jangka panjang, maka ada beberapa cara yang dapet kalian implementasikan saat membeli Bitcoin. Beberapa diantaranya adalah: Dollar Cost Averaging (DCA) DCA merupakan salah satu strategi investasi yang populer, tidak hanya di Bitcoin, tapi juga di instrumen investasi lainnya seperti saham dan reksadana. Inti dari strategi ini adalah kalian membeli Bitcoin secara rutin terlepas dari harga Bitcoin sedang baik ataupun turun. Jadi, alih-alih membeli Bitcoin dalam satu waktu dengan modal besar (misalnya 10 juta rupiah). Kalian dapat membeli Bitcoin setiap minggu sebanyak 2,5 juta rupiah. Strategi ini menjadi kesukaan para investor karena mengindari kita dari “pusingnya” mencoba “timing the market”. DCA juga cocok untuk kalian yang ingin berinvestasi Bitcoin dalam jangka panjang. Beli di harga berapapun Ini cocok untuk kalian yang ingin membeli Bitcoin dan disimpan dalam jangka panjang. Misal 2 sampai 5 tahun ke depan. Kalian tidak perlu berapa harga Bitcoin hari ini, beli saja lalu simpan untuk jangka panjang. Beli saat harganya turun Kalian dapat memperhatikan harga Bitcoin selama beberapa waktu. Misalnya beberapa hari atau beberapa minggu melalui situs seperti Coingecko.com dan Coinmarketcap. Kemudian setelah melihat harga Bitcoin turun, kalian dapat segera membuka exchange dan membeli Bitcoin. Dimana Saya Dapat Membeli Bitcoin? Di tahun 2025 ini membeli Bitcoin di Indonesia jauh lebih mudah karena jumlah exchange lokal yang telah teregulasi sangatlah banyak jumlahnya. Berbeda dengan 10 tahun lalu yang hanya ada 1 exchange lokal yang tersedia. Menggunakan exchange lokal teregulasi sangat penting karena setiap exchange tersebut harus mematuhi serangkaian peraturan yang ditetapkan oleh pemerintah. Dengan begitu kita sebagai pengguna lebih tenang dalam menggunakannya. Metode deposit yang ditawarkan juga lebih beragam. Selain menggunakan transfer bank, kini kita dapat mendepositkan uang ke exchange menggunakan virtual account, e-wallet dan lainnya. Exchange Lokal untuk Membeli Bitcoin Dibawah ini adalah beberapa exchange lokal yang saya rekomendasikan dan saya sendiri memang telah menggunakannya. Daftar dibawah ini mungkin akan berubah dari waktu ke waktu seiring dengan bertambahnya exchange lokal yang saya coba. Pintu Saya selalu merasa bahwa Pintu adalah Coinbase-nya Indonesia. Aplikasi ini memiliki tampilan yang simpel dan mudah digunakan, sehingga tidak membuat bingung para pemula yang baru mencoba berinvestasi Bitcoin. Jika kalian benar-benar pemula dan baru pertama kali ingin berinvestasi di Bitcoin, saya sangat merekomendasikan untuk menggunakan aplikasi Pintu. Jangan lupa untuk menggunakan kode referral saya dibawah ini: @yusyulianto (gunakan gambar screenshot supaya ngga terdeteksi Google) Dengan menggunakan kode referral saya, kalian akan mendapatkan bonus sebesar 0.0004% setiap kali membeli atau pun menjual Bitcoin (atau crypto lainnya). Dengan kata lain, jumlah Bitcoin yang kalian dapatkan akan lebih banyak. Tokocrypto Exchange lokal berikutnya yang juga secara rutin saya gunakan untuk berinvestasi Bitcoin adalah Tokocrypto. Salah satu fitur Tokocrypto yang saya sukai adalah adanya integrasi dengan blu. Dengan mengintegrasika akun Tokocrypto dan blu, kita dapat melakukan deposit dan penarikan dengan mudah dan cepat. Cocok untuk kalian para pengguna blu. Luno Ini merupakan exchange lokal yang underrated. Jarang sekali orang yang membahasnya di internet, terutama para pengguna crypto di Indonesia. Alasan kenapa saya menyukai aplikasi ini adalah karena Luno memiliki beberapa kelebihan yang tidak dimiliki oleh exchange lokal lainnya, seperti: biaya withdraw Bitcoin yang dinamis, antarmuka yang simpel dan sederhana, dan masih banyak lagi. Indodax Ini merupakan exchange lokal tertua dan pertama di Indonesia. Exchange ini sudah ada sejak tahun 2012, jauh sebelum exchange lokal lainnya ada. Kelebihan Indodax dibanding exchange lokal lainnya adalah Indodax memiliki likuiditas yang tinggi. Artinya, kalian dapat membeli dan menjual Bitcoin di Indodax dengan cepat. Cara Menggunakan Pintu untuk Membeli Bitcoin Kalian perlu mengunduh Pintu terlebih dahulu di App Store atau Play Store (silahkan sesuaikan dengan platform yang kalian gunakan). Kemudian silahkan buat akun jika kalian belum memilikinya. Seperti yang saudah saya jelaskan sebelumnya, silahkan gunakan kode referral saya dibawah ini untuk mendapatka bonus 0.0004% secara permanen: @yusyulianto (pakai screenshot) Cara Menggunakan Tokocrypto untuk Membeli Bitcoin Cara Menggunakan Luno untuk Membeli Bitcoin Cara Menggunakan Indodax untuk Membeli Bitcoin Berapa Banyak Bitcoin yang Harus Saya Beli? Tidak ada jawaban pasti untuk pertanyaan ini. Semuanya terserah kalian sebagai pemilik uang. Namun saran saya, jika kalian memang baru pertama kali mencoba berinvestasi Bitcoin, beli dengan jumlah kecil terlebih dulu. Entah itu 100 ribu, 200 ribu atau 1 juta rupiah. Biasakan diri kalian familiar dengan exchange tempat kalian membeli Bitcoin sambil terus mempelajari lebih dalam mengenai Bitcoin. Setelah kalian cukup yakin, kalian dapat membeli Bitcoin kembali dengan jumlah yang lebih banyak. Berapa Harga 1 Bitcoin? Harga Bitcoin selalu berubah dari waktu ke waktu. Terkadang naik, terkadang turun. Naik turunnya Bitcoin dipengaruhi oleh permintaan pasar. Semakin banyak orang yang membeli Bitcoin, semakin naik harganya. Semakin banyak orang yang menjual Bitcoin miliknya, maka akan turun harganya. Harga Bitcoin hari ini dapat kalian lihat dibawah ini: Bisakah Saya Membeli Kurang dari 1 Bitcoin? Tentu saja. Walaupun saat ini harga Bitcoin misalnya 1 miliar rupiah, kalian tidak perlu membeli 1 Bitcoin. Kalian dapat membeli pecahan Bitcoin yang disebut sebagai Satoshi. 1 Bitcoin terdiri dari 100.000.000 Satoshi. 1 Satoshi setara dengan 0.00000001 Bitcoin. Dengan kata lain, kalian dapat membeli Bitcoin bahkan mulai dari 10 ribu rupiah. Jadi tidak perlu khawatir ketika melihat harga Bitcoin yang sudah mencapai miliaran. Sama seperti emas, kita tidak perlu membeli 1 kilogram emas secara langsung. Kita dapat membeli beberapa gram saja sebagai permulaan. Cara Lain Membeli Bitcoin Membeli Bitcoin melalui exchange mewajibkan kalian untuk melakukan KYC . Kalian harus memfoto wajah dan KTP untuk dapat menggunakan exchange tersebut secara penuh. Sebagian diantara kalian mungkin ada yang kurang nyama untuk membagikan foto wajah dan KTP ke exchange. Lantas, adakah cara alternatif untuk membeli Bitcoin tanpa melalui exchange? Tentu saja ada. Kalian dapat membeli Bitcoin dari pengguna Bitcoin lainnya. Kalian dapat mencarinya di internet, seperti di komunitas Bitcoin. Namun tentu saja cara ini datang dengan resikonya sendiri. Kalian harus membeli Bitcoin dari orang yang memang terpercaya. Jika tidak, ada resiko uang kalian akan hilang. Jika kalian memiliki teman yang sudah lebih dahulu merupakan pengguna Bitcoin, maka kalian beruntung. Belilah dari teman kalian tersebut. Buat kesepatakan dengannya mengenai harga dan metode pembayaran. Membeli Bitcoin secara langsung melalui orang yang dikenal dapat meminimalkan potensi penipuan. Cara Membuat Dompet Bitcoin Setelah selesai membeli Bitcoin di exchange, sebenarnya kalian dapat membiarkannya di exchange. Namun saya tidak merekomendasikan hal tersebut karena ada banyak potensi buruk yang dapat terjadi. Exchange tempat kalian membeli Bitcoin bisa saja terkena hack. Jika itu terjadi, maka Bitcoin yang kalian simpan di exchange tersebut akan dalam masalah. Kemungkinan terburuknya kalian akan kehilangan Bitcoin kalian yang berharga itu. Peretasan exchange bukan merupakan hal yang sekali atau dua kali terjadi. Sudah banyak exchange crypto yang pernah mengalami peretasan. Mulai dari Binance di tahun 2019, Mt. Gox di tahun 2014 hingga yang terbaru yaitu Indodax di tahun 2024. Indodax sendiri memang bertanggung jawab penuh atas peretasan tersebut. Namun tetap saja, para penggunanya kalang kabut ketika mengetahui berita Indodax terkena hack. Banyak exchange lain yang tidak “sebaik” Indodax dan tidak mengembalikan Bitcoin milik penggunanya. Contohnya saja Mt. Gox. Para pengguna Mt. Gox kehilangan Bitcoin yang mereka simpan di exchange tersebut. Karenanya, menyimpan Bitcoin di dompet kita sendiri sangatlah penting. Jadi jika sewaktu-waktu exchange yang kita gunakan terkena hack atau bangkrut, Bitcoin yang pernah kita beli tetap aman di dompet kita. Dompet atau wallet Bitcoin terbagi menjadi 2 jenis. Yaitu software wallet dan hardware wallet. Seperti namanya, software wallet merupakan dompet Bitcoin dalam bentuk aplikasi Android ataupun aplikasi di PC. Umumnya kita dapat menggunakan software wallet secara gratis. Sedangkan hardware wallet adalah dompet Bitcoin dalam bentuk perangkat keras tersendiri. Untuk dapat menggunakan hardware wallet, kita harus membelinya. Setiap pabrikan hardware wallet memiliki model yang berbeda-beda dengan harga yang bervariasi pula. Contoh software wallet yang dapat kalian gunakan untuk menyimpan Bitcoin adalah Electrum, Green. Sedangkan contoh hardware wallet adalah Trezor, Ledger, Safepal dan masih banyak lagi. Kesimpulan Jika kalian telah membaca seluruh isi artikel ini, maka selamat. Seharusnya sekarang kalian telah berhasil membeli Bitcoin pertama kalian. Jaga baik-baik Bitcoin tersebut sesedikit apa pun jumlahnya, karena siapa tahu nilainya akan melonjak di masa yang akan datang. Semoga artikel ini benar-benar membantu kalian, terutama untuk kalian yang memang baru pertama kali ingin membeli Bitcoin. Dan jika tidak keberatan, bagikan artikel ini ke media sosial kalian seperti Facebook, X atau Instagram. Bagi kalian hanya sekedar membagikan artikel ini ke media sosial mungkin terlihat remeh dan tidak berarti apa-apa Namun percayalah, bagi kami, itu sangat berarti. Dengan membagikan artikel ini ke media sosial kalian, kalian telah membantu teman-teman kalian mengenal Bitcoin serta membantu Rojocrypto untuk tetap ada, setidaknya untuk beberapa bulan ke depan. Artikel ini akan terus saya perbarui agar tetap relevan dibaca kapan pun. Bitcoin akan terus berkembang, exchange yang saya rekomendasikan juga akan silih berganti, jadi tidak ada salahnya kalian kembali lagi ke artikel ini, siapa tahu ada perubahan yang perlu kalian ketahui.]]></summary></entry><entry><title type="html">KYC</title><link href="http://localhost:4000/KYC/" rel="alternate" type="text/html" title="KYC" /><published>2025-01-01T00:00:00+07:00</published><updated>2025-01-01T00:00:00+07:00</updated><id>http://localhost:4000/KYC</id><content type="html" xml:base="http://localhost:4000/KYC/"><![CDATA[<p>KYC atau <em>Know Your Customer</em> adalah sebuah proses yang dilakukan oleh <em>exchange</em> untuk memverifikasi identitas penggunanya guna memenuhi regulasi. Dalam prosesnya, pengguna akan diminta untuk memasukkan beberapa dokume seperti KTP, paspor atau yang lainnya.</p>
 
 <p>KYC merupakan hal yang wajib dilakukan jika kita ingin menggunakan CEX (<em>Centralized Exchange</em>). Tidak hanya untuk <em>exchange</em> lokal, tapi juga seluruh CEX yang ada di dunia ini.</p>
 
-<p>Hal ini diperlukan untuk mengurangi tindak kejahatan pencucian uang dan semacamnya. Pengguna yang tidak melakukan KYC biasanya tidak dapat melakukan jual-beli di <em>exchange</em> yang ia gunakan.</p>]]></content><author><name></name></author><category term="Kamus" /><summary type="html"><![CDATA[KYC atau Know Your Customer adalah sebuah proses yang dilakukan oleh exchange untuk memverifikasi identitas penggunanya guna memenuhi regulasi. Dalam prosesnya, pengguna akan diminta untuk memasukkan beberapa dokume seperti KTP, paspor atau yang lainnya. KYC merupakan hal yang wajib dilakukan jika kita ingin menggunakan CEX (Centralized Exchange). Tidak hanya untuk exchange lokal, tapi juga seluruh CEX yang ada di dunia ini. Hal ini diperlukan untuk mengurangi tindak kejahatan pencucian uang dan semacamnya. Pengguna yang tidak melakukan KYC biasanya tidak dapat melakukan jual-beli di exchange yang ia gunakan.]]></summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/hello-world/" rel="alternate" type="text/html" title="Hello World" /><published>2021-07-15T00:00:00+07:00</published><updated>2021-07-15T00:00:00+07:00</updated><id>http://localhost:4000/hello-world</id><content type="html" xml:base="http://localhost:4000/hello-world/"><![CDATA[<p>Hello and welcome. The only purpose of this post is to greet you when your site comes alive for the first time.<br />
-This post will demonstrate some of the more common content &amp; elements found in posts.<br />
-Feel free to delete this post when you are ready to publish your first post.</p>
+<p>Hal ini diperlukan untuk mengurangi tindak kejahatan pencucian uang dan semacamnya. Pengguna yang tidak melakukan KYC biasanya tidak dapat melakukan jual-beli di <em>exchange</em> yang ia gunakan.</p>]]></content><author><name></name></author><category term="Kamus" /><summary type="html"><![CDATA[KYC atau Know Your Customer adalah sebuah proses yang dilakukan oleh exchange untuk memverifikasi identitas penggunanya guna memenuhi regulasi. Dalam prosesnya, pengguna akan diminta untuk memasukkan beberapa dokume seperti KTP, paspor atau yang lainnya. KYC merupakan hal yang wajib dilakukan jika kita ingin menggunakan CEX (Centralized Exchange). Tidak hanya untuk exchange lokal, tapi juga seluruh CEX yang ada di dunia ini. Hal ini diperlukan untuk mengurangi tindak kejahatan pencucian uang dan semacamnya. Pengguna yang tidak melakukan KYC biasanya tidak dapat melakukan jual-beli di exchange yang ia gunakan.]]></summary></entry><entry><title type="html">Staking</title><link href="http://localhost:4000/staking/" rel="alternate" type="text/html" title="Staking" /><published>2025-01-01T00:00:00+07:00</published><updated>2025-01-01T00:00:00+07:00</updated><id>http://localhost:4000/staking</id><content type="html" xml:base="http://localhost:4000/staking/"><![CDATA[<p><em>Staking</em> adalah istilah dalam <em>cryptocurrency</em> dimana seorang pemilik <em>crypto</em> menyimpan dan mengunci aset <em>crypto</em> mereka pada aplikasi dompet <em>crypto</em> dalam jangka waktu tertentu. Selama proses penguncian tersebut, <em>crypto</em> yang di <em>staking</em> tidak dapat dikirimka kemana pun.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
-
-<h2 id="some-great-heading-h2">Some great heading (h2)</h2>
-
-<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-&lt;!–more–</p>
-
-<p>Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
-
-<h2 id="another-great-heading-h2">Another great heading (h2)</h2>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
-
-<h3 id="some-great-subheading-h3">Some great subheading (h3)</h3>
-
-<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.</p>
-
-<p>Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
-
-<h3 id="some-great-subheading-h3-1">Some great subheading (h3)</h3>
-
-<p>Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
-
-<blockquote>
-  <p>This quote will <em>change</em> your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don’t <em>misuse</em> it.</p>
-</blockquote>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.</p>
-
-<h3 id="some-great-subheading-h3-2">Some great subheading (h3)</h3>
-
-<p>Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.</p>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h4 id="you-might-want-a-sub-subheading-h4">You might want a sub-subheading (h4)</h4>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h4 id="but-its-probably-overkill-h4">But it’s probably overkill (h4)</h4>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h5 id="could-be-a-smaller-sub-heading-pacman-h5">Could be a smaller sub-heading, <code class="language-plaintext highlighter-rouge">pacman</code> (h5)</h5>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h6 id="small-yet-significant-sub-heading--h6">Small yet significant sub-heading  (h6)</h6>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h3 id="highlight-the-code-please">Highlight the code please!!</h3>
-
-<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="kt">float</span> <span class="nf">Q_rsqrt</span><span class="p">(</span> <span class="kt">float</span> <span class="n">number</span> <span class="p">)</span>
-<span class="p">{</span>
-	<span class="kt">long</span> <span class="n">i</span><span class="p">;</span>
-	<span class="kt">float</span> <span class="n">x2</span><span class="p">,</span> <span class="n">y</span><span class="p">;</span>
-	<span class="k">const</span> <span class="kt">float</span> <span class="n">threehalfs</span> <span class="o">=</span> <span class="mi">1</span><span class="p">.</span><span class="mi">5</span><span class="n">F</span><span class="p">;</span>
-
-	<span class="n">x2</span> <span class="o">=</span> <span class="n">number</span> <span class="o">*</span> <span class="mi">0</span><span class="p">.</span><span class="mi">5</span><span class="n">F</span><span class="p">;</span>
-	<span class="n">y</span>  <span class="o">=</span> <span class="n">number</span><span class="p">;</span>
-	<span class="n">i</span>  <span class="o">=</span> <span class="o">*</span> <span class="p">(</span> <span class="kt">long</span> <span class="o">*</span> <span class="p">)</span> <span class="o">&amp;</span><span class="n">y</span><span class="p">;</span>                       <span class="c1">// evil floating point bit level hacking</span>
-	<span class="n">i</span>  <span class="o">=</span> <span class="mh">0x5f3759df</span> <span class="o">-</span> <span class="p">(</span> <span class="n">i</span> <span class="o">&gt;&gt;</span> <span class="mi">1</span> <span class="p">);</span>               <span class="c1">// what the fuck? </span>
-	<span class="n">y</span>  <span class="o">=</span> <span class="o">*</span> <span class="p">(</span> <span class="kt">float</span> <span class="o">*</span> <span class="p">)</span> <span class="o">&amp;</span><span class="n">i</span><span class="p">;</span>
-	<span class="n">y</span>  <span class="o">=</span> <span class="n">y</span> <span class="o">*</span> <span class="p">(</span> <span class="n">threehalfs</span> <span class="o">-</span> <span class="p">(</span> <span class="n">x2</span> <span class="o">*</span> <span class="n">y</span> <span class="o">*</span> <span class="n">y</span> <span class="p">)</span> <span class="p">);</span>   <span class="c1">// 1st iteration</span>
-<span class="c1">//	y  = y * ( threehalfs - ( x2 * y * y ) );   // 2nd iteration, this can be removed</span>
-
-	<span class="k">return</span> <span class="n">y</span><span class="p">;</span>
-<span class="p">}</span></code></pre></figure>
-
-<h3 id="oh-hai-an-unordered-list">Oh hai, an unordered list!!</h3>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<ul>
-  <li>First item, yo</li>
-  <li>Second item, dawg</li>
-  <li>Third item, what what?!</li>
-  <li>Fourth item, fo sheezy my neezy</li>
-</ul>
-
-<h3 id="oh-hai-an-ordered-list">Oh hai, an ordered list!!</h3>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<ol>
-  <li>First item, yo</li>
-  <li>Second item, dawg</li>
-  <li>Third item, what what?!</li>
-  <li>Fourth item, fo sheezy my neezy</li>
-</ol>
-
-<h2 id="headings-are-cool-h2">Headings are cool! (h2)</h2>
-
-<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
-
-<p>Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
-
-<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
-
-<h3 id="tables">Tables</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Title 1</th>
-      <th>Title 2</th>
-      <th>Title 3</th>
-      <th>Title 4</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>lorem</td>
-      <td>lorem ipsum</td>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>Title 1</th>
-      <th>Title 2</th>
-      <th>Title 3</th>
-      <th>Title 4</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>lorem</td>
-      <td>lorem ipsum</td>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit amet</td>
-      <td>lorem ipsum dolor sit amet consectetur</td>
-      <td>lorem ipsum dolor sit amet</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum</td>
-      <td>lorem</td>
-      <td>lorem ipsum</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit amet</td>
-      <td>lorem ipsum dolor sit amet consectetur</td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html"><![CDATA[Hello and welcome. The only purpose of this post is to greet you when your site comes alive for the first time. This post will demonstrate some of the more common content &amp; elements found in posts. Feel free to delete this post when you are ready to publish your first post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Some great heading (h2) Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. &lt;!–more– Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Another great heading (h2) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Some great subheading (h3) Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Some great subheading (h3) Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don’t misuse it. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Some great subheading (h3) Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. You might want a sub-subheading (h4) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. But it’s probably overkill (h4) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Could be a smaller sub-heading, pacman (h5) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Small yet significant sub-heading (h6) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Highlight the code please!! float Q_rsqrt( float number ) { long i; float x2, y; const float threehalfs = 1.5F; x2 = number * 0.5F; y = number; i = * ( long * ) &amp;y; // evil floating point bit level hacking i = 0x5f3759df - ( i &gt;&gt; 1 ); // what the fuck? y = * ( float * ) &amp;i; y = y * ( threehalfs - ( x2 * y * y ) ); // 1st iteration // y = y * ( threehalfs - ( x2 * y * y ) ); // 2nd iteration, this can be removed return y; } Oh hai, an unordered list!! In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. First item, yo Second item, dawg Third item, what what?! Fourth item, fo sheezy my neezy Oh hai, an ordered list!! In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. First item, yo Second item, dawg Third item, what what?! Fourth item, fo sheezy my neezy Headings are cool! (h2) Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Tables Title 1 Title 2 Title 3 Title 4 lorem lorem ipsum lorem ipsum dolor lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit Title 1 Title 2 Title 3 Title 4 lorem lorem ipsum lorem ipsum dolor lorem ipsum dolor sit lorem ipsum dolor sit amet lorem ipsum dolor sit amet consectetur lorem ipsum dolor sit amet lorem ipsum dolor sit lorem ipsum dolor lorem ipsum lorem lorem ipsum lorem ipsum dolor lorem ipsum dolor sit lorem ipsum dolor sit amet lorem ipsum dolor sit amet consectetur]]></summary></entry></feed>
+<p>Fitur <em>staking</em> seperti ini biasanya hanya terdapat pada <em>crypto</em> yang menggunakann konsensus <em>Proof of Stake (POS)</em>. Contoh <em>crypto</em> yang dapat di <em>staking</em> antara lain adalah Ethereum, Cardano, Solana, Polkadot, BNB dan masih banyak lagi.</p>]]></content><author><name></name></author><category term="Kamus" /><summary type="html"><![CDATA[Staking adalah istilah dalam cryptocurrency dimana seorang pemilik crypto menyimpan dan mengunci aset crypto mereka pada aplikasi dompet crypto dalam jangka waktu tertentu. Selama proses penguncian tersebut, crypto yang di staking tidak dapat dikirimka kemana pun. Fitur staking seperti ini biasanya hanya terdapat pada crypto yang menggunakann konsensus Proof of Stake (POS). Contoh crypto yang dapat di staking antara lain adalah Ethereum, Cardano, Solana, Polkadot, BNB dan masih banyak lagi.]]></summary></entry></feed>

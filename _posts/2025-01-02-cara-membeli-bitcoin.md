@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Cara Membeli Bitcoin di 2025 Menggunakan Rekening Bank atau E-wallet
 categories:
   - Kamus
@@ -129,7 +129,7 @@ Sama seperti emas, kita tidak perlu membeli 1 kilogram emas secara langsung. Kit
 
 ## Cara Lain Membeli Bitcoin
 
-Membeli Bitcoin melalui *exchange* mewajibkan kalian untuk melakukan [KYC](https://rojocrypo.com/kyc/) . Kalian harus memfoto wajah dan KTP untuk dapat menggunakan *exchange* tersebut secara penuh. 
+Membeli Bitcoin melalui *exchange* mewajibkan kalian untuk melakukan [KYC](https://rojocrypto.com/kyc/) . Kalian harus memfoto wajah dan KTP untuk dapat menggunakan *exchange* tersebut secara penuh. 
 
 Sebagian diantara kalian mungkin ada yang kurang nyama untuk membagikan foto wajah dan KTP ke *exchange*. Lantas, adakah cara alternatif untuk membeli Bitcoin tanpa melalui *exchange*? Tentu saja ada. 
 
