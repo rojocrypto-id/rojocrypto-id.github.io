@@ -19,6 +19,15 @@
 } ,
   
   {
+    "title"    : "Exchange",
+    "category" : "Kamus",
+    "url"      : "/exchange/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Exchange atau bursa adalah tempat untuk melakukan jual-beli cryptocurrency seperti Bitcoin, Ethereum, BNB, Xrp, Dogecoin dan masih banyak lagi. Exchange biasanya dapat diakses melalui PC serta perangkat mobile seperti Android dan iPhone.\n\nDi excha...",
+    "content"  : "Exchange atau bursa adalah tempat untuk melakukan jual-beli cryptocurrency seperti Bitcoin, Ethereum, BNB, Xrp, Dogecoin dan masih banyak lagi. Exchange biasanya dapat diakses melalui PC serta perangkat mobile seperti Android dan iPhone.\n\nDi exchange, kita dapat menjual dan membeli cryptocurrency, melakukan deposit rupiah atau crypto serta menarik kembali uang kita ke rekening bank lokal. Setiap exchange memiliki batasan deposit dan penarikan yang berbeda-beda.\n\nUntuk kalian yang berada di Indonesia sangat disarankan untuk menggunakan exchange lokal yang sudah teregulasi seperti Pintu, Tokocrypto, Indodax dan Luno.\n"
+} ,
+  
+  {
     "title"    : "Blockchain",
     "category" : "Kamus",
     "url"      : "/blockchain/",
