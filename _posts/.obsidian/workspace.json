@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-01-cara-membeli-bitcoin.md",
+                "file": "2025-01-02-cara-membeli-bitcoin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-01-cara-membeli-bitcoin"
+              "title": "2025-01-02-cara-membeli-bitcoin"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-01-01-cara-membeli-bitcoin.md",
+                "file": "2025-01-02-cara-membeli-bitcoin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-01-cara-membeli-bitcoin"
+              "title": "Backlinks for 2025-01-02-cara-membeli-bitcoin"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-01-01-cara-membeli-bitcoin.md",
+                "file": "2025-01-02-cara-membeli-bitcoin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-01-cara-membeli-bitcoin"
+              "title": "Outgoing links from 2025-01-02-cara-membeli-bitcoin"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-01-cara-membeli-bitcoin.md",
+                "file": "2025-01-02-cara-membeli-bitcoin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-01-cara-membeli-bitcoin"
+              "title": "Outline of 2025-01-02-cara-membeli-bitcoin"
             }
           }
         ]
@@ -169,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3ba16029db3e87a",
+  "active": "3cf41b359c04758a",
   "lastOpenFiles": [
-    "2025-01-01-staking.md",
-    "2025-01-01-cara-membeli-bitcoin.md",
-    "2025-01-01-KYC.md"
+    "2025-01-01-KYC.md",
+    "2025-01-02-cara-membeli-bitcoin.md",
+    "2025-01-01-staking.md"
   ]
 }
