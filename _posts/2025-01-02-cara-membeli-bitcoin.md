@@ -2,7 +2,7 @@
 layout: post
 title: Cara Membeli Bitcoin di 2025 Menggunakan Rekening Bank atau E-wallet
 categories:
-  - Kamus
+  - Bitcoin
 ---
 
 Kalian mungkin pernah mendengar nama Bitcoin, entah itu di media sosial seperti YouTube, Instagram, Facebook, dari teman kalian, atau dari situs yang pernah kalian baca. Kemudian kalian tertarik untuk berinvestasi di Bitcoin. Selamat, kalian sedang membaca artikel yang tepat. 
@@ -61,7 +61,7 @@ Saya selalu merasa bahwa Pintu adalah Coinbase-nya Indonesia. Aplikasi ini memil
 
 Jika kalian benar-benar pemula dan baru pertama kali ingin berinvestasi di Bitcoin, saya sangat merekomendasikan untuk menggunakan aplikasi Pintu. Jangan lupa untuk menggunakan kode referral saya dibawah ini:
 
-@yusyulianto (gunakan gambar screenshot supaya ngga terdeteksi Google) 
+![Kode referral pintu](/assets/image/ref-pintu.png)
 
 Dengan menggunakan kode *referral* saya, kalian akan mendapatkan bonus sebesar 0.0004% setiap kali membeli atau pun menjual Bitcoin (atau crypto lainnya). Dengan kata lain, jumlah Bitcoin yang kalian dapatkan akan lebih banyak. 
 
@@ -69,8 +69,7 @@ Dengan menggunakan kode *referral* saya, kalian akan mendapatkan bonus sebesar 0
 
 *Exchange* lokal berikutnya yang juga secara rutin saya gunakan untuk berinvestasi Bitcoin adalah Tokocrypto. Salah satu fitur Tokocrypto yang saya sukai adalah adanya integrasi dengan [blu](https://blubybcadigital.id/).
 
-Dengan mengintegrasika akun Tokocrypto dan blu, kita dapat melakukan deposit dan penarikan dengan mudah dan cepat. Cocok untuk kalian para pengguna blu.
-
+Dengan mengintegrasikan akun Tokocrypto dan blu, kita dapat melakukan deposit dan penarikan dengan mudah dan cepat. Cocok untuk kalian para pengguna blu.
 
 **Luno**
 
@@ -88,11 +87,21 @@ Kelebihan Indodax dibanding *exchange* lokal lainnya adalah Indodax memiliki lik
 
 Kalian perlu mengunduh Pintu terlebih dahulu di App Store atau Play Store (silahkan sesuaikan dengan platform yang kalian gunakan). Kemudian silahkan buat akun jika kalian belum memilikinya. 
 
-Seperti yang saudah saya jelaskan sebelumnya, silahkan gunakan kode *referral* saya dibawah ini untuk mendapatka bonus 0.0004% secara permanen:
+Seperti yang sudah saya jelaskan sebelumnya, silahkan gunakan kode *referral* saya dibawah ini untuk mendapatkan bonus 0.0004% secara permanen:
 
 ![Kode referral pintu](/assets/image/ref-pintu.png)
 
+Jika sudah membuat akun Pintu, silahkan *login* dan buka aplikasinya. Kemudian di halaman depan aplikasi Pintu, ketuk tombol **Deposit**.
 
+Kemudian pilih salah satu metode deposit yang ingin digunakan. Saat ini tersedia transfer bank, QRIS, LinkAja, OVO, DANA, Gopay dan ShopeePay.
+
+Setelah itu masukkan berapa jumlah deposit yang kalian inginkan. Jumlah deposit inilah yang nantinya kalian gunakan untuk membeli Bitcoin.
+
+Selanjutnya silahkan transfer sesuai dengan jumlah deposit yang tadi sudah kalian tentukan. Jika sudah selesai, dalam beberapa detik uang kalian akan masuk ke akun Pintu kalian. Kalian dapat melihatnya ada tab **Wallet** atau **Dompet** di aplikasi Pintu.
+
+Setelah depositnya masuk, ketuk tab **Markets** atau **Pasar** di aplikasi Pintu kalian. Kemudian pilih Bitcoin > Buy > Masukkan jumlah yang ingin dibeli > Continue > Buy Now.
+
+Dan selesai. Kalian sudah berhasil membeli Bitcoin pertama kalian di aplikasi Pintu. Untuk mengecek jumlah Bitcoin yang kalian miliki, masuk ke tab **Wallet** atau **Dompet**.
 ## Cara Menggunakan Tokocrypto untuk Membeli Bitcoin
 ## Cara Menggunakan Luno untuk Membeli Bitcoin
 ## Cara Menggunakan Indodax untuk Membeli Bitcoin
