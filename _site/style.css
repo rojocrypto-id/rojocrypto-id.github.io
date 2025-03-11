@@ -224,7 +224,7 @@ hr {
   margin: 0;
   padding: 0;
   font-weight: bold;
-  color: #666666;
+  color: #4183C4;
 }
 .post-nav p:first-child {
   padding-right: auto;
@@ -486,7 +486,7 @@ nav {
 }
 nav a {
   margin-left: 20px;
-  color: #333333;
+  color: #4183C4;
   text-align: right;
   font-weight: 400;
   letter-spacing: 1px;
@@ -508,7 +508,7 @@ nav a:visited {
 .nav-menu-item.active,
 a.nav-menu-item:focus {
   text-decoration: underline;
-  color: #000000;
+  color: #4183C4;
 }
 
 .clearfix:before,
