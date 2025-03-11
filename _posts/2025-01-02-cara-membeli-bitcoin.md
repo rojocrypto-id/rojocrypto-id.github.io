@@ -23,7 +23,7 @@ Jika kalian membeli Bitcoin untuk trading harian (beli di harga rendah lalu menj
 
 Tapi jika tujuan investasi kalian adalah untuk jangka panjang, maka ada beberapa cara yang dapet kalian implementasikan saat membeli Bitcoin. Beberapa diantaranya adalah:
 
-*Dollar Cost Averaging (DCA)**
+**Dollar Cost Averaging (DCA)**
 
 DCA merupakan salah satu strategi investasi yang populer, tidak hanya di Bitcoin, tapi juga di instrumen investasi lainnya seperti saham dan reksadana. Inti dari strategi ini adalah kalian membeli Bitcoin secara rutin terlepas dari harga Bitcoin sedang baik ataupun turun. 
 
@@ -31,29 +31,31 @@ Jadi, alih-alih membeli Bitcoin dalam satu waktu dengan modal besar (misalnya 10
 
 Strategi ini menjadi kesukaan para investor karena mengindari kita dari "pusingnya" mencoba "timing the market". DCA juga cocok untuk kalian yang ingin berinvestasi Bitcoin dalam jangka panjang. 
 
-*Beli di harga berapapun*
+**Beli di harga berapapun**
 
-Ini cocok untuk kalian yang ingin membeli Bitcoin dan disimpan dalam jangka panjang. Tidak perlu dipikirkan harga Bitcoin hari ini, beli saja lalu simpan untuk jangka panjang.
+Ini cocok untuk kalian yang ingin membeli Bitcoin dan disimpan dalam jangka panjang. Misal 2 sampai 5 tahun ke depan.
+
+Kalian tidak perlu berapa harga Bitcoin hari ini, beli saja lalu simpan untuk jangka panjang.
 
 ## Beli saat harganya turun
 
 Kalian dapat memperhatikan harga Bitcoin selama beberapa waktu. Misalnya beberapa hari atau beberapa minggu melalui situs seperti Coingecko.com dan Coinmarketcap. 
 
-Kemudian setelah melihat harga Bitcoin turun, kalian dapat segera membuka exchange dan membeli Bitcoin.
+Kemudian setelah melihat harga Bitcoin turun, kalian dapat segera membuka *exchange* dan membeli Bitcoin.
 
 ## Dimana Saya Dapat Membeli Bitcoin?
 
-Di tahun 2025 ini membeli Bitcoin di Indonesia jauh lebih mudah karena jumlah exchange lokal yang telah teregulasi sangatlah banyak jumlahnya. Berbeda dengan 10 tahun lalu yang hanya ada 1 exchange lokal yang tersedia. 
+Di tahun 2025 ini membeli Bitcoin di Indonesia jauh lebih mudah karena jumlah *exchange* lokal yang telah teregulasi sangatlah banyak jumlahnya. Berbeda dengan 10 tahun lalu yang hanya ada 1 *exchange* lokal yang tersedia. 
 
-Menggunakan exchange lokal teregulasi sangat penting karena setiap exchange tersebut harus mematuhi serangkaian peraturan yang ditetapkan oleh pemerintah. Dengan begitu kita sebagai pengguna lebih tenang dalam menggunakannya.
+Menggunakan *exchange* lokal teregulasi sangat penting karena setiap *exchange* tersebut harus mematuhi serangkaian peraturan yang ditetapkan oleh pemerintah. Dengan begitu kita sebagai pengguna lebih tenang dalam menggunakannya.
 
-Metode deposit yang ditawarkan juga lebih beragam. Selain menggunakan transfer bank, kini kita dapat mendepositkan uang ke exchange menggunakan virtual account, e-wallet dan lainnya.
+Metode deposit yang ditawarkan juga lebih beragam. Selain menggunakan transfer bank, kini kita dapat mendepositkan uang ke *exchange* menggunakan *virtual account*, *e-wallet* dan lainnya.
 
 ### Exchange Lokal untuk Membeli Bitcoin
 
-Dibawah ini adalah beberapa exchange lokal yang saya rekomendasikan dan saya sendiri memang telah menggunakannya. Daftar dibawah ini mungkin akan berubah dari waktu ke waktu seiring dengan bertambahnya exchange lokal yang saya coba. 
+Dibawah ini adalah beberapa *exchange* lokal yang saya rekomendasikan dan saya sendiri memang telah menggunakannya. Daftar dibawah ini mungkin akan berubah dari waktu ke waktu seiring dengan bertambahnya *exchange* lokal yang saya coba. 
 
-Pintu
+**Pintu**
 
 Saya selalu merasa bahwa Pintu adalah Coinbase-nya Indonesia. Aplikasi ini memiliki tampilan yang simpel dan mudah digunakan, sehingga tidak membuat bingung para pemula yang baru mencoba berinvestasi Bitcoin. 
 
@@ -61,30 +63,32 @@ Jika kalian benar-benar pemula dan baru pertama kali ingin berinvestasi di Bitco
 
 @yusyulianto (gunakan gambar screenshot supaya ngga terdeteksi Google) 
 
-Dengan menggunakan kode referral saya, kalian akan mendapatkan bonus sebesar 0.0004% setiap kali membeli atau pun menjual Bitcoin (atau crypto lainnya). Dengan kata lain, jumlah Bitcoin yang kalian dapatkan akan lebih banyak. 
+Dengan menggunakan kode *referral* saya, kalian akan mendapatkan bonus sebesar 0.0004% setiap kali membeli atau pun menjual Bitcoin (atau crypto lainnya). Dengan kata lain, jumlah Bitcoin yang kalian dapatkan akan lebih banyak. 
 
-Tokocrypto
+**Tokocrypto**
 
-Exchange lokal berikutnya yang juga secara rutin saya gunakan untuk berinvestasi Bitcoin adalah Tokocrypto.
+*Exchange* lokal berikutnya yang juga secara rutin saya gunakan untuk berinvestasi Bitcoin adalah Tokocrypto. Salah satu fitur Tokocrypto yang saya sukai adalah adanya integrasi dengan [blu](https://blubybcadigital.id/).
 
-
-Luno
-
-Ini merupakan exchange lokal yang underrated. Jarang sekali orang yang membahasnya di internet, terutama para pengguna crypto di Indonesia. 
-
-Alasan kenapa saya menyukai aplikasi ini adalah karena Luno memiliki beberapa kelebihan yang tidak dimiliki oleh exchange lokal lainnya, seperti: biaya withdraw Bitcoin yang dinamis, antarmuka yang simpel dan sederhana, dan masih banyak lagi. 
-
-Indodax
-
-Ini merupakan exchange lokal tertua dan pertama di Indonesia. Exchange ini sudah ada sejak tahun 2012, jauh sebelum exchange lokal lainnya ada.
+Dengan mengintegrasika akun Tokocrypto dan blu, kita dapat melakukan deposit dan penarikan dengan mudah dan cepat. Cocok untuk kalian para pengguna blu.
 
 
+**Luno**
+
+Ini merupakan *exchange* lokal yang underrated. Jarang sekali orang yang membahasnya di internet, terutama para pengguna *crypto* di Indonesia. 
+
+Alasan kenapa saya menyukai aplikasi ini adalah karena Luno memiliki beberapa kelebihan yang tidak dimiliki oleh *exchange* lokal lainnya, seperti: biaya *withdraw* Bitcoin yang dinamis, antarmuka yang simpel dan sederhana, dan masih banyak lagi. 
+
+**Indodax**
+
+Ini merupakan *exchange* lokal tertua dan pertama di Indonesia. *Exchange* ini sudah ada sejak tahun 2012, jauh sebelum *exchange* lokal lainnya ada.
+
+Kelebihan Indodax dibanding *exchange* lokal lainnya adalah Indodax memiliki likuiditas yang tinggi. Artinya, kalian dapat membeli dan menjual Bitcoin di Indodax dengan cepat.
 
 ## Cara Menggunakan Pintu untuk Membeli Bitcoin
 
 Kalian perlu mengunduh Pintu terlebih dahulu di App Store atau Play Store (silahkan sesuaikan dengan platform yang kalian gunakan). Kemudian silahkan buat akun jika kalian belum memilikinya. 
 
-Seperti yang saudah saya jelaskan sebelumnya, silahkan gunakan kode referral saya dibawah ini untuk mendapatka bonus 0.0004% secara permanen:
+Seperti yang saudah saya jelaskan sebelumnya, silahkan gunakan kode *referral* saya dibawah ini untuk mendapatka bonus 0.0004% secara permanen:
 
 @yusyulianto (pakai screenshot) 
 
@@ -96,7 +100,11 @@ Cara Menggunakan Indodax untuk Membeli Bitcoin
 
 ## Berapa Banyak Bitcoin yang Harus Saya Beli?
 
+Tidak ada jawaban pasti untuk pertanyaan ini. Semuanya terserah kalian sebagai pemilik uang.
 
+Namun saran saya, jika kalian memang baru pertama kali mencoba berinvestasi Bitcoin, beli dengan jumlah kecil terlebih dulu. Entah itu 100 ribu, 200 ribu atau 1 juta rupiah.
+
+Biasakan diri kalian familiar dengan *exchange* tempat kalian membeli Bitcoin sambil terus mempelajari lebih dalam mengenai Bitcoin. Setelah kalian cukup yakin, kalian dapat membeli Bitcoin kembali dengan jumlah yang lebih banyak.
 
 ## Berapa Harga 1 Bitcoin?
 
@@ -106,24 +114,14 @@ Semakin banyak orang yang membeli Bitcoin, semakin naik harganya. Semakin banyak
 
 Harga Bitcoin hari ini dapat kalian lihat dibawah ini:
 
-----Gunakan widget dari coingecko atau semacamnya
-
-<div id="widget-container"></div>
-<div id="widget-container"></div>
-<div id="widget-container"></div>
-<div id="widget-container"></div>
-<div id="widget-container"></div>
-<div id="widget-container"></div>
-<div id="widget-container"></div>
-<div id="widget-container"></div>
-<div id="widget-container"></div>
 <script src="https://widgets.coingecko.com/gecko-coin-price-chart-widget.js"></script>
 <gecko-coin-price-chart-widget locale="en" outlined="true" initial-currency="idr"></gecko-coin-price-chart-widget>
+
 ## Bisakah Saya Membeli Kurang dari 1 Bitcoin?
 
 Tentu saja. Walaupun saat ini harga Bitcoin misalnya 1 miliar rupiah, kalian tidak perlu membeli 1 Bitcoin.
 
-Kalian dapat membeli pecahan Bitcoin yang disebut sebagai [[]]. 1 Bitcoin terdiri dari 100.000.000 Satoshi. 1 Satoshi setara dengan 0.00000001 Bitcoin. 
+Kalian dapat membeli pecahan Bitcoin yang disebut sebagai [Satoshi](https://rojocrypto.com/satoshi/). 1 Bitcoin terdiri dari 100.000.000 Satoshi. 1 Satoshi setara dengan 0.00000001 Bitcoin. 
 
 Dengan kata lain, kalian dapat membeli Bitcoin bahkan mulai dari 10 ribu rupiah. Jadi tidak perlu khawatir ketika melihat harga Bitcoin yang sudah mencapai miliaran.
 
@@ -131,9 +129,9 @@ Sama seperti emas, kita tidak perlu membeli 1 kilogram emas secara langsung. Kit
 
 ## Cara Lain Membeli Bitcoin
 
-Membeli Bitcoin melalui exchange mewajibkan kalian untuk melakukan [[2025-01-01-KYC]]. Kalian harus memfoto wajah dan KTP untuk dapat menggunakan exchange tersebut secara penuh. 
+Membeli Bitcoin melalui *exchange* mewajibkan kalian untuk melakukan [KYC](https://rojocrypo.com/kyc/) . Kalian harus memfoto wajah dan KTP untuk dapat menggunakan *exchange* tersebut secara penuh. 
 
-Sebagian diantara kalian mungkin ada yang kurang nyama untuk membagikan foto wajah dan KTP ke exchange. Lantas, adakah cara alternatif untuk membeli Bitcoin tanpa melalui exchange? Tentu saja ada. 
+Sebagian diantara kalian mungkin ada yang kurang nyama untuk membagikan foto wajah dan KTP ke *exchange*. Lantas, adakah cara alternatif untuk membeli Bitcoin tanpa melalui *exchange*? Tentu saja ada. 
 
 Kalian dapat membeli Bitcoin dari pengguna Bitcoin lainnya. Kalian dapat mencarinya di internet, seperti di komunitas Bitcoin. Namun tentu saja cara ini datang dengan resikonya sendiri. 
 
@@ -143,33 +141,34 @@ Jika kalian memiliki teman yang sudah lebih dahulu merupakan pengguna Bitcoin, m
 
 Buat kesepatakan dengannya mengenai harga dan metode pembayaran. Membeli Bitcoin secara langsung melalui orang yang dikenal dapat meminimalkan potensi penipuan. 
 
-Membeli ke sesama pengguna Bitcoin
-Ke teman kalian
-
 ## Cara Membuat Dompet Bitcoin
 
-Setelah selesai membeli Bitcoin di exchange, sebenarnya kalian dapat membiarkannya di exchange. Namun saya tidak merekomendasikan hal tersebut karena ada banyak potensi buruk yang dapat terjadi. 
+Setelah selesai membeli Bitcoin di *exchange*, sebenarnya kalian dapat membiarkannya di *exchange*. Namun saya tidak merekomendasikan hal tersebut karena ada banyak potensi buruk yang dapat terjadi. 
 
-Exchange tempat kalian membeli Bitcoin bisa saja terkena hack. Ini otomatis akan membuat Bitcoin yang kalian beli juga hilang. 
+*Exchange* tempat kalian membeli Bitcoin bisa saja terkena *hack*. Jika itu terjadi, maka Bitcoin yang kalian simpan di *exchange* tersebut akan dalam masalah. Kemungkinan terburuknya kalian akan kehilangan Bitcoin kalian yang berharga itu.
 
-Sudah sering teradi kasus peretasan exchange. Mulai dari Binance di tahun 2018, Mt. Gox di tahun 2012 hingga yang terbaru yaitu Indodax di tahun 2024.
+Peretasan *exchange* bukan merupakan hal yang sekali atau dua kali terjadi. Sudah banyak *exchange crypto* yang pernah mengalami peretasan. Mulai dari Binance di tahun 2019, Mt. Gox di tahun 2014 hingga yang terbaru yaitu Indodax di tahun 2024.
 
-Indodax sendiri memang bertanggung jawab penuh atas peretasan tersebut. Namun tentu itu tetap membuat kita pusing. 
+Indodax sendiri memang bertanggung jawab penuh atas peretasan tersebut. Namun tetap saja, para penggunanya kalang kabut ketika mengetahui berita Indodax terkena *hack*.
 
-Karenanya, menyimpan Bitcoin di dompet kita sendiri sangatlah penting. Jadi jika sewaktu-waktu exchange yang kita gunakan terkena hack atau bangkrut, Bitcoin yang pernah kita beli tetap aman di dompet kita. 
+Banyak *exchange* lain yang tidak "sebaik" Indodax dan tidak mengembalikan Bitcoin milik penggunanya. Contohnya saja Mt. Gox. Para pengguna Mt. Gox kehilangan Bitcoin yang mereka simpan di *exchange* tersebut.
 
-Dompet atau wallet Bitcoin terbagi menadi 2 jenis. Yaitu software wallet dan hardware wallet. Seperti namanya, software wallet merupakan dompet Bitcoin dalam bentuk aplikasi Android ataupun aplikasi di PC. 
+Karenanya, menyimpan Bitcoin di dompet kita sendiri sangatlah penting. Jadi jika sewaktu-waktu *exchange* yang kita gunakan terkena *hack* atau bangkrut, Bitcoin yang pernah kita beli tetap aman di dompet kita. 
 
-Sedangkan hardware wallet adalah dompet Bitcoin dalam bentuk perangkat keras tersendiri.
+Dompet atau *wallet* Bitcoin terbagi menjadi 2 jenis. Yaitu *software wallet* dan *hardware wallet*. Seperti namanya, *software wallet* merupakan dompet Bitcoin dalam bentuk aplikasi Android ataupun aplikasi di PC. Umumnya kita dapat menggunakan *software wallet* secara gratis.
+
+Sedangkan *hardware wallet* adalah dompet Bitcoin dalam bentuk perangkat keras tersendiri. Untuk dapat menggunakan *hardware wallet*, kita harus membelinya. Setiap pabrikan *hardware wallet* memiliki model yang berbeda-beda dengan harga yang bervariasi pula.
+
+Contoh *software wallet* yang dapat kalian gunakan untuk menyimpan Bitcoin adalah Electrum, Green. Sedangkan contoh *hardware wallet* adalah Trezor, Ledger, Safepal dan masih banyak lagi.
 
 ## Kesimpulan
 
-Jika kalian telah membaca seluruh isi artikel ini, maka selamat. Seharusnya sekarang kalian telah berhasil membeli Bitcoin pertama kalian. 
+Jika kalian telah membaca seluruh isi artikel ini, maka selamat. Seharusnya sekarang kalian telah berhasil membeli Bitcoin pertama kalian. Jaga baik-baik Bitcoin tersebut sesedikit apa pun jumlahnya, karena siapa tahu nilainya akan melonjak di masa yang akan datang.
 
-Semoga artikel ini benar-benar membantu kalian, terutama yang memang baru pertama kali ingin membeli Bitcoin. Dan jika tidak keberatan, bagikan artikel ini ke media sosial seperti Facebook, X atau Instagram.
+Semoga artikel ini benar-benar membantu kalian, terutama untuk kalian yang memang baru pertama kali ingin membeli Bitcoin. Dan jika tidak keberatan, bagikan artikel ini ke media sosial kalian seperti Facebook, X atau Instagram.
 
-Bagi kalian hanya sekedar membagikan artikel ini ke media sosial mungkin terlihat remeh dan tidak berarti apa-apa Namun percayalah, bagi kami, itu sangat berarti bagi kami. 
+Bagi kalian hanya sekedar membagikan artikel ini ke media sosial mungkin terlihat remeh dan tidak berarti apa-apa Namun percayalah, bagi kami, itu sangat berarti. 
 
-Dengan membagikan artikel ini ke media sosial kalian, kalian telah membantu teman-teman kalian mengenal Bitcoin serta membantu Rojocrypto untuk tetap ada, setidaknya dalam beberapa bulan ke depan. 
+Dengan membagikan artikel ini ke media sosial kalian, kalian telah membantu teman-teman kalian mengenal Bitcoin serta membantu Rojocrypto untuk tetap ada, setidaknya untuk beberapa bulan ke depan. 
 
-Artikel ini akan terus saya perbarui agar tetap relevan dibaca kapan pun. Bitcoin akan terus berkembang, exchange yang saya rekomendasikan juga akan silih berganti, jadi tidak ada salahnya kalian kembali lagi ke artikel ini, siapa tahu ada perubahan yang perlu kalian tahu.
+Artikel ini akan terus saya perbarui agar tetap relevan dibaca kapan pun. Bitcoin akan terus berkembang, *exchange* yang saya rekomendasikan juga akan silih berganti, jadi tidak ada salahnya kalian kembali lagi ke artikel ini, siapa tahu ada perubahan yang perlu kalian ketahui.
