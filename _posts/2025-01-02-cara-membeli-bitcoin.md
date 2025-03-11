@@ -90,7 +90,7 @@ Kalian perlu mengunduh Pintu terlebih dahulu di App Store atau Play Store (silah
 
 Seperti yang saudah saya jelaskan sebelumnya, silahkan gunakan kode *referral* saya dibawah ini untuk mendapatka bonus 0.0004% secara permanen:
 
-@yusyulianto (pakai screenshot) 
+![Kode referral pintu](/assets/image/ref-pintu.png)
 
 Cara Menggunakan Tokocrypto untuk Membeli Bitcoin
 
@@ -151,7 +151,7 @@ Peretasan *exchange* bukan merupakan hal yang sekali atau dua kali terjadi. Suda
 
 Indodax sendiri memang bertanggung jawab penuh atas peretasan tersebut. Namun tetap saja, para penggunanya kalang kabut ketika mengetahui berita Indodax terkena *hack*.
 
-Banyak *exchange* lain yang tidak "sebaik" Indodax dan tidak mengembalikan Bitcoin milik penggunanya. Contohnya saja Mt. Gox. Para pengguna Mt. Gox kehilangan Bitcoin yang mereka simpan di *exchange* tersebut.
+Banyak *exchange* lain yang tidak "sebaik" Indodax dan tidak mengembalikan Bitcoin milik penggunanya ketika mereka terkena peretasan. Contohnya saja Mt. Gox. Para pengguna Mt. Gox kehilangan Bitcoin yang mereka simpan di *exchange* tersebut.
 
 Karenanya, menyimpan Bitcoin di dompet kita sendiri sangatlah penting. Jadi jika sewaktu-waktu *exchange* yang kita gunakan terkena *hack* atau bangkrut, Bitcoin yang pernah kita beli tetap aman di dompet kita. 
 
