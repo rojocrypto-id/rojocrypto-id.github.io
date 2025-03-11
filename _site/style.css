@@ -507,7 +507,7 @@ nav a:visited {
 
 .nav-menu-item.active,
 a.nav-menu-item:focus {
-  text-decoration: none;
+  text-decoration: underline;
   color: #000000;
 }
 
