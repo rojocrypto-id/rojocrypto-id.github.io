@@ -101,6 +101,8 @@ Kemudian pilih salah satu metode deposit yang ingin digunakan. Saat ini tersedia
 
 Setelah itu masukkan berapa jumlah deposit yang kalian inginkan. Jumlah deposit inilah yang nantinya kalian gunakan untuk membeli Bitcoin.
 
+![]()
+
 Selanjutnya silahkan transfer sesuai dengan jumlah deposit yang tadi sudah kalian tentukan. Jika sudah selesai, dalam beberapa detik uang kalian akan masuk ke akun Pintu kalian. Kalian dapat melihatnya ada tab **Wallet** atau **Dompet** di aplikasi Pintu.
 
 Setelah depositnya masuk, ketuk tab **Markets** atau **Pasar** di aplikasi Pintu kalian. Kemudian pilih *Bitcoin > Buy > Masukkan jumlah yang ingin dibeli > Continue > Buy Now*.
