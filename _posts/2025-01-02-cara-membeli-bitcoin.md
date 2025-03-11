@@ -9,7 +9,7 @@ Kalian mungkin pernah mendengar nama Bitcoin, entah itu di media sosial seperti 
 
 Artikel ini saya buat untuk kalian yang belum pernah sama sekali berinvesatasi Bitcoin. Jadi akan saya buat sedetail mungkin agar lebih mudah untuk kalian mengerti. 
 
-Saya paham bahwa mencoba sesuatu yang baru terkadang terlihat begitu membingungkan. Saya sering mendapatkan pertanyaan serupa "bagaimana cara investasi di Bitcoin?" di seluruh kanal media sosial saya, entah itu di YouTube, Tiktok, atau pun Instagram. 
+Saya paham bahwa mencoba sesuatu yang baru terkadang terlihat begitu membingungkan. Saya sering mendapatkan pertanyaan serupa "bagaimana cara investasi di Bitcoin?" di seluruh kanal media sosial saya mulai dari [YouTube](https://www.youtube.com/@ProfesorCloverID/videos), [TikTok](https://www.tiktok.com/@profesorclover), atau pun [Instagram](https://www.instagram.com/profesorclover/). 
 
 Jika kalian menemui kebingungan di salah satu poin pada artikel ini, jangan sungkan untuk menanyakannya ke saya melalui salah satu sosial media saya (YouTube, Instagram, TikTok). Nanti akan saya coba bantu jawab sebisa mungkin. 
 
@@ -17,7 +17,7 @@ Jika kalian menemui kebingungan di salah satu poin pada artikel ini, jangan sung
 
 Bitcoin merupakan salah satu aset digital dengan performa terbaik sepanjang sejarah. Kini Bitcoin juga telah diakui sebagai aset yang layak diperhitungkan, semakin banyak yang berinvestasi di Bitcoin, baik perorangan maupun perusahaan. 
 
-Pertanyaan selanjutnya yang paling banyak ditanyakan di channel YouTube saya adalah "Kapan waktu yang tepat untuk membeli Bitcoin". Jawabannya tergantung dari tujuan kalian membeli Bitcoin itu sendiri.
+Pertanyaan selanjutnya yang paling banyak ditanyakan di *channel* YouTube saya adalah "Kapan waktu yang tepat untuk membeli Bitcoin". Jawabannya tergantung dari tujuan kalian membeli Bitcoin itu sendiri.
 
 Jika kalian membeli Bitcoin untuk trading harian (beli di harga rendah lalu menjualnya saat harganya naik), maka kalian butuh mempelajari banyak strategi trading. Dan saya pribadi menghindari cara ini. 
 
@@ -29,7 +29,7 @@ DCA merupakan salah satu strategi investasi yang populer, tidak hanya di Bitcoin
 
 Jadi, alih-alih membeli Bitcoin dalam satu waktu dengan modal besar (misalnya 10 juta rupiah). Kalian dapat membeli Bitcoin setiap minggu sebanyak 2,5 juta rupiah.
 
-Strategi ini menjadi kesukaan para investor karena mengindari kita dari "pusingnya" mencoba "timing the market". DCA juga cocok untuk kalian yang ingin berinvestasi Bitcoin dalam jangka panjang. 
+Strategi ini menjadi kesukaan para investor karena mengindari kita dari "pusingnya" mencoba *timing the market*. DCA juga cocok untuk kalian yang ingin berinvestasi Bitcoin dalam jangka panjang. 
 
 **Beli di harga berapapun**
 
@@ -37,9 +37,9 @@ Ini cocok untuk kalian yang ingin membeli Bitcoin dan disimpan dalam jangka panj
 
 Kalian tidak perlu berapa harga Bitcoin hari ini, beli saja lalu simpan untuk jangka panjang.
 
-## Beli saat harganya turun
+**Beli saat harganya turun**
 
-Kalian dapat memperhatikan harga Bitcoin selama beberapa waktu. Misalnya beberapa hari atau beberapa minggu melalui situs seperti Coingecko.com dan Coinmarketcap. 
+Kalian dapat memperhatikan harga Bitcoin selama beberapa waktu. Misalnya beberapa hari atau beberapa minggu melalui situs seperti [CoinGecko](https://www.coingecko.com/id/coins/bitcoin/idr) dan [CoinMarketCap](https://coinmarketcap.com/id/currencies/bitcoin/). 
 
 Kemudian setelah melihat harga Bitcoin turun, kalian dapat segera membuka *exchange* dan membeli Bitcoin.
 
