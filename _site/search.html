@@ -97,7 +97,7 @@
     <h4 id="looking-for-something">Looking for something?</h4>
 
 <!-- Html Elements for Search -->
-<p><input type="text" id="search-input" placeholder="Find it here..." class="search-bar" autofocus="" />
+<p><input type="text" id="search-input" placeholder="Temukan disini.." class="search-bar" autofocus="" />
 <br />
 <br /></p>
 <ul id="results-container"></ul>
@@ -109,7 +109,7 @@
             searchInput: document.getElementById('search-input'),
             resultsContainer: document.getElementById('results-container'),
             json: '/assets/data/search.json',
-            searchResultTemplate: '<div class="search-title"><a href="{url}"><h3> {title}</h3></a><div class="meta"> <i class="fa fa-calendar fa-fw"></i> {date} <div class="right"><i class="fa fa-tags fa-fw"></i> {category}</div></div><p>{excerpt}</p></div><hr> ',
+            searchResultTemplate: '<div class="search-title"><a href="{url}"><h3> {title}</h3></a><div class="right"><i class="fa fa-tags fa-fw"></i> {category}</div></div><p>{excerpt}</p></div><hr> ',
             noResultsText: 'No results found',
             limit: 10,
             fuzzy: false,

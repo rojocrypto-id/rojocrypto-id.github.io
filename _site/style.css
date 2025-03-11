@@ -84,11 +84,11 @@ small, .text_small {
 }
 
 a {
-  color: #000000;
+  color: #4183C4;
   text-decoration: none;
 }
 a:visited {
-  color: #000000;
+  color: #4183C4;
 }
 a:hover {
   color: #4183C4;
@@ -536,22 +536,22 @@ a.nav-menu-item:focus {
 }
 .post .read-more {
   font-size: 14px !important;
-  color: #BD2C00;
+  color: #mahogany;
 }
 .post .read-more a {
-  color: #BD2C00;
+  color: #0b7db3;
   text-decoration: none;
 }
 .post .read-more:visited {
-  color: #BD2C00;
+  color: #0b7db3;
 }
 .post .read-more:hover {
-  color: #BD2C00;
+  color: #0b7db3;
   text-decoration: underline;
 }
 .post .reading-time {
   font-size: 14px !important;
-  color: #BD2C00;
+  color: #0b7db3;
 }
 
 .wrapper-footer {
@@ -589,7 +589,7 @@ footer .social-icon:hover {
   padding: 30px;
   margin-bottom: 30px;
   color: #FFFFFF;
-  background-color: #BD2C00;
+  background-color: #0b7db3;
   border-radius: 3px;
 }
 
