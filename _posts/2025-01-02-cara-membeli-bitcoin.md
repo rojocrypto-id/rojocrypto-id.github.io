@@ -71,6 +71,10 @@ Dengan menggunakan kode *referral* saya, kalian akan mendapatkan bonus sebesar 0
 
 Dengan mengintegrasikan akun Tokocrypto dan blu, kita dapat melakukan deposit dan penarikan dengan mudah dan cepat. Cocok untuk kalian para pengguna blu.
 
+Klik tombol dibawah ini jika ingin membuat akun di Tokocrypto dan mendapatkan diskon biaya *trading* sebesar 20% secara permanen.
+
+<a href="https://www.tokocrypto.com/account/signup?ref=PROFESOR" class="btn btn-primary">Daftar Tokocrypto</a>
+
 **Luno**
 
 Ini merupakan *exchange* lokal yang underrated. Jarang sekali orang yang membahasnya di internet, terutama para pengguna *crypto* di Indonesia. 
@@ -87,7 +91,7 @@ Kelebihan Indodax dibanding *exchange* lokal lainnya adalah Indodax memiliki lik
 
 Kalian perlu mengunduh Pintu terlebih dahulu di App Store atau Play Store (silahkan sesuaikan dengan platform yang kalian gunakan). Kemudian silahkan buat akun jika kalian belum memilikinya. 
 
-Seperti yang sudah saya jelaskan sebelumnya, silahkan gunakan kode *referral* saya dibawah ini untuk mendapatkan bonus 0.0004% secara permanen:
+Seperti yang sudah saya jelaskan sebelumnya, silahkan gunakan kode *referral* saya dibawah ini untuk mendapatkan bonus 0.004% secara permanen:
 
 ![Kode referral pintu](/assets/image/ref-pintu.png)
 
@@ -99,7 +103,7 @@ Setelah itu masukkan berapa jumlah deposit yang kalian inginkan. Jumlah deposit 
 
 Selanjutnya silahkan transfer sesuai dengan jumlah deposit yang tadi sudah kalian tentukan. Jika sudah selesai, dalam beberapa detik uang kalian akan masuk ke akun Pintu kalian. Kalian dapat melihatnya ada tab **Wallet** atau **Dompet** di aplikasi Pintu.
 
-Setelah depositnya masuk, ketuk tab **Markets** atau **Pasar** di aplikasi Pintu kalian. Kemudian pilih Bitcoin > Buy > Masukkan jumlah yang ingin dibeli > Continue > Buy Now.
+Setelah depositnya masuk, ketuk tab **Markets** atau **Pasar** di aplikasi Pintu kalian. Kemudian pilih *Bitcoin > Buy > Masukkan jumlah yang ingin dibeli > Continue > Buy Now*.
 
 Dan selesai. Kalian sudah berhasil membeli Bitcoin pertama kalian di aplikasi Pintu. Untuk mengecek jumlah Bitcoin yang kalian miliki, masuk ke tab **Wallet** atau **Dompet**.
 ## Cara Menggunakan Tokocrypto untuk Membeli Bitcoin
