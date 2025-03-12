@@ -206,18 +206,16 @@ Jika kalian **menonton satu video per hari**, dalam **satu minggu**, kalian akan
 
 Setelah mendapatkan pemahaman dasar tentang Bitcoin, saatnya **mencoba transaksi pertama kalian**.  
 
-Bagi pemula, kami menyarankan untuk **mengunduh dompet kripto (crypto wallet) gratis** seperti **Best Wallet** dan membeli sedikit Bitcoin untuk mencoba.  
+Bagi pemula, saya menyarankan untuk **mengunduh dompet kripto (crypto wallet) gratis** seperti **Best Wallet** dan membeli sedikit Bitcoin untuk mencoba.  
 
-Beberapa tempat tepercaya untuk membeli Bitcoin dalam jumlah kecil adalah:  
+Beberapa *exchange* lokal tepercaya untuk membeli Bitcoin dalam jumlah kecil adalah:  
 
-- **Langsung dari Best Wallet** (cara paling mudah)  
-- **Mendaftar di bursa kripto (exchange) seperti**:  
-  - **Binance**  
-  - **Bybit**  
-  - **Kraken**  
-  - **Coinbase**  
+  - [Tokocrypto](https://www.tokocrypto.com/account/signup?ref=PROFESOR)  
+  - Pintu  
+  - [Indodax](https://indodax.com/ref/yusyulianto/1)
+  - Luno
 
-Kalian bisa melihat panduan kami tentang **Best Crypto Exchanges** untuk menemukan platform yang paling cocok bagi kalian.  
+Kalian dapat melihat panduan lengkapnya pada artikel Rojocrypto yang berjudul [cara membeli Bitcoin](https://rojocrypto.com/cara-membeli-bitcoin/).
 
 Melakukan transaksi Bitcoin pertama akan membantu kalian memahami **cara membeli Bitcoin, menemukan alamat Bitcoin kalian, berapa lama konfirmasi transaksi,** dan banyak lagi. Ini akan memperkuat pemahaman kalian setelah belajar teori sebelumnya! 🚀
 

@@ -81,7 +81,7 @@ Ini merupakan *exchange* lokal yang underrated. Jarang sekali orang yang membaha
 
 Alasan kenapa saya menyukai aplikasi ini adalah karena Luno memiliki beberapa kelebihan yang tidak dimiliki oleh *exchange* lokal lainnya, seperti: biaya *withdraw* Bitcoin yang dinamis, antarmuka yang simpel dan sederhana, dan masih banyak lagi. 
 
-**Indodax**
+[**Indodax**](https://indodax.com/ref/yusyulianto/1)
 
 Ini merupakan *exchange* lokal tertua dan pertama di Indonesia. *Exchange* ini sudah ada sejak tahun 2012, jauh sebelum *exchange* lokal lainnya ada.
 
