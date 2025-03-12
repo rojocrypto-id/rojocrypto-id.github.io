@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bear Market
+title: Smart Contract
 categories:
   - Kamus
 ---
@@ -9,4 +9,4 @@ categories:
 
 *Smart contract* dibuat menggunakan bahasa pemrograman khusus, seperti Solidity di Ethereum, dan disimpan di [blockchain](https://rojocrypto.com/blockchain/) agar tidak bisa diubah. Ketika pengguna berinteraksi dengan *smart contract*, sistem akan menjalankan kode secara otomatis sesuai dengan aturan yang telah ditentukan.
 
-*Smart contract* menghilangkan kebutuhan akan pihak ketiga, sehingga transaksi menjadi lebih cepat, murah, dan aman. Teknologi ini digunakan dalam berbagai aplikasi, seperti keuangan terdesentralisasi ([DeFi](https://rojocrypto.com/defi/)), [NFT](https://rojocrypto.com/nft/, dan manajemen aset digital.
+*Smart contract* menghilangkan kebutuhan akan pihak ketiga, sehingga transaksi menjadi lebih cepat, murah, dan aman. Teknologi ini digunakan dalam berbagai aplikasi, seperti keuangan terdesentralisasi ([DeFi](https://rojocrypto.com/defi/)), [NFT](https://rojocrypto.com/nft/), dan manajemen aset digital.

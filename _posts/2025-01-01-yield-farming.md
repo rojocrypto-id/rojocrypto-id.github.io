@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yield farming
+title: Yield Farming
 categories:
   - Kamus
 ---
@@ -9,4 +9,4 @@ categories:
 
 Untuk berpartisipasi dalam *yield farming*, pengguna menyetor kripto mereka ke dalam *liquidity pool*, yang digunakan untuk mendukung transaksi di platform DeFi. Sebagai imbalannya, mereka mendapatkan bunga atau token tambahan yang bisa diperdagangkan atau diinvestasikan kembali.
 
-Meskipun menawarkan keuntungan menarik, *yield farming* juga memiliki risiko, seperti perubahan harga aset yang drastis (impermanent loss) dan potensi kerentanan keamanan pada [*smart contract*](https://rojocrypto.com/smart-contract/). Oleh karena itu, sangat penting bagi pemula untuk memahami mekanisme platform yang digunakan dan hanya menginvestasikan dana yang siap untuk ditanggung risikonya.
+Meskipun menawarkan keuntungan menarik, *yield farming* juga memiliki risiko, seperti perubahan harga aset yang drastis (*impermanent loss*) dan potensi kerentanan keamanan pada [*smart contract*](https://rojocrypto.com/smart-contract/). Oleh karena itu, sangat penting bagi pemula untuk memahami mekanisme platform yang digunakan dan hanya menginvestasikan dana yang siap untuk ditanggung risikonya.

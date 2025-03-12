@@ -19,7 +19,7 @@
 } ,
   
   {
-    "title"    : "Yield farming",
+    "title"    : "Yield Farming",
     "category" : "Kamus",
     "url"      : "/yield-farming/",
     "date"     : "January 1, 2025",
@@ -37,12 +37,12 @@
 } ,
   
   {
-    "title"    : "Bear Market",
+    "title"    : "Smart Contract",
     "category" : "Kamus",
     "url"      : "/smart-contract/",
     "date"     : "January 1, 2025",
     "excerpt"  : "Smart contract adalah program digital yang berjalan di blockchain dan dieksekusi secara otomatis ketika syarat tertentu terpenuhi. Dengan kata lain, ini seperti kontrak biasa, tetapi tanpa perantara, karena aturan dan hasilnya langsung dikodekan d...",
-    "content"  : "Smart contract adalah program digital yang berjalan di blockchain dan dieksekusi secara otomatis ketika syarat tertentu terpenuhi. Dengan kata lain, ini seperti kontrak biasa, tetapi tanpa perantara, karena aturan dan hasilnya langsung dikodekan di dalamnya.\n\nSmart contract dibuat menggunakan bahasa pemrograman khusus, seperti Solidity di Ethereum, dan disimpan di blockchain agar tidak bisa diubah. Ketika pengguna berinteraksi dengan smart contract, sistem akan menjalankan kode secara otomatis sesuai dengan aturan yang telah ditentukan.\n\nSmart contract menghilangkan kebutuhan akan pihak ketiga, sehingga transaksi menjadi lebih cepat, murah, dan aman. Teknologi ini digunakan dalam berbagai aplikasi, seperti keuangan terdesentralisasi (DeFi), [NFT](https://rojocrypto.com/nft/, dan manajemen aset digital.\n"
+    "content"  : "Smart contract adalah program digital yang berjalan di blockchain dan dieksekusi secara otomatis ketika syarat tertentu terpenuhi. Dengan kata lain, ini seperti kontrak biasa, tetapi tanpa perantara, karena aturan dan hasilnya langsung dikodekan di dalamnya.\n\nSmart contract dibuat menggunakan bahasa pemrograman khusus, seperti Solidity di Ethereum, dan disimpan di blockchain agar tidak bisa diubah. Ketika pengguna berinteraksi dengan smart contract, sistem akan menjalankan kode secara otomatis sesuai dengan aturan yang telah ditentukan.\n\nSmart contract menghilangkan kebutuhan akan pihak ketiga, sehingga transaksi menjadi lebih cepat, murah, dan aman. Teknologi ini digunakan dalam berbagai aplikasi, seperti keuangan terdesentralisasi (DeFi), NFT, dan manajemen aset digital.\n"
 } ,
   
   {
