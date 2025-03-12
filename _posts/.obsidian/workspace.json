@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-01-fud.md",
+                "file": "2025-01-03-apa-itu-bitcoin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-01-fud"
+              "title": "2025-01-03-apa-itu-bitcoin"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-01-01-fud.md",
+                "file": "2025-01-03-apa-itu-bitcoin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-01-fud"
+              "title": "Backlinks for 2025-01-03-apa-itu-bitcoin"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-01-01-fud.md",
+                "file": "2025-01-03-apa-itu-bitcoin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-01-fud"
+              "title": "Outgoing links from 2025-01-03-apa-itu-bitcoin"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-01-fud.md",
+                "file": "2025-01-03-apa-itu-bitcoin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-01-fud"
+              "title": "Outline of 2025-01-03-apa-itu-bitcoin"
             }
           }
         ]
@@ -185,18 +185,19 @@
   },
   "active": "a51fc6f32d187aee",
   "lastOpenFiles": [
+    "yield-farming.md",
+    "2025-01-01-bear-market.md",
+    "2025-01-03-apa-itu-bitcoin.md",
+    "2025-01-01-fud.md",
     "2025-01-01-hodl.md",
     "2025-01-01-KYC.md",
     "2025-01-01-pump-and-dump.md",
     "2025-01-01-smart-contract.md",
-    "2025-01-01-bear-market.md",
     "2025-01-01-blockchain.md",
     "2025-01-01-bull-market.md",
     "2025-01-01-exchange.md",
     "2025-01-01-fomo.md",
-    "2025-01-01-fud.md",
     "2025-01-01-defi.md",
-    "2025-01-03-apa-itu-bitcoin.md",
     "2025-01-02-cara-membeli-bitcoin.md",
     "2025-01-01-staking.md"
   ]
