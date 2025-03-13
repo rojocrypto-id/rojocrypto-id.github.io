@@ -28,6 +28,15 @@
 } ,
   
   {
+    "title"    : "Token",
+    "category" : "Kamus",
+    "url"      : "/token/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Token dalam cryptocurrency adalah aset digital yang dibuat di atas blockchain yang sudah ada, seperti Ethereum. Berbeda dengan koin seperti Bitcoin, token tidak memiliki blockchain sendiri dan bergantung pada jaringan lain untuk beroperasi.\n\nToken...",
+    "content"  : "Token dalam cryptocurrency adalah aset digital yang dibuat di atas blockchain yang sudah ada, seperti Ethereum. Berbeda dengan koin seperti Bitcoin, token tidak memiliki blockchain sendiri dan bergantung pada jaringan lain untuk beroperasi.\n\nToken memiliki berbagai fungsi, mulai dari mewakili aset digital (seperti NFT) hingga digunakan dalam ekosistem aplikasi tertentu. Misalnya, ada token yang berfungsi sebagai alat pembayaran, hak suara dalam proyek, atau akses ke layanan eksklusif.\n\nUntuk menyimpan dan menggunakan token, biasanya diperlukan dompet kripto yang kompatibel dengan blockchain tempat token tersebut dibuat. Selain itu, token dapat diperjualbelikan di bursa kripto, sehingga nilai dan kegunaannya bisa berubah sesuai dengan permintaan pasar.\n"
+} ,
+  
+  {
     "title"    : "Staking",
     "category" : "Kamus",
     "url"      : "/staking/",
@@ -46,12 +55,57 @@
 } ,
   
   {
+    "title"    : "Rug pull",
+    "category" : "Kamus",
+    "url"      : "/rug-pull/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Rug pull adalah bentuk penipuan di dunia cryptocurrency di mana pengembang proyek tiba-tiba menarik semua likuiditas dan menghilang, meninggalkan investor dengan token yang tak berharga. Ini sering terjadi pada proyek baru yang menarik perhatian d...",
+    "content"  : "Rug pull adalah bentuk penipuan di dunia cryptocurrency di mana pengembang proyek tiba-tiba menarik semua likuiditas dan menghilang, meninggalkan investor dengan token yang tak berharga. Ini sering terjadi pada proyek baru yang menarik perhatian dengan janji keuntungan besar namun ternyata hanya jebakan.\n\nModus operandi rug pull biasanya dimulai dengan menciptakan token baru dan menarik investor melalui hype di media sosial atau komunitas crypto. Setelah cukup banyak dana masuk ke dalam proyek, pengembang mencairkan semua dana tersebut dan meninggalkan proyek tanpa peringatan.\n\nUntuk menghindari rug pull, investor harus selalu melakukan riset sebelum berinvestasi, seperti memeriksa apakah kode smart contract diaudit dan melihat transparansi tim pengembang. Jika sebuah proyek menawarkan keuntungan yang terdengar terlalu bagus untuk menjadi kenyataan, maka kemungkinan besar itu adalah penipuan.\n"
+} ,
+  
+  {
     "title"    : "Pump and Dump",
     "category" : "Kamus",
     "url"      : "/pump-and-dump/",
     "date"     : "January 1, 2025",
     "excerpt"  : "Pump and Dump adalah skema manipulasi harga di mana sekelompok orang dengan sengaja menaikkan harga sebuah cryptocurrency secara cepat (pump) dengan cara menyebarkan informasi yang menyesatkan. Setelah harga naik tinggi dan menarik minat investor ...",
     "content"  : "Pump and Dump adalah skema manipulasi harga di mana sekelompok orang dengan sengaja menaikkan harga sebuah cryptocurrency secara cepat (pump) dengan cara menyebarkan informasi yang menyesatkan. Setelah harga naik tinggi dan menarik minat investor baru, mereka segera menjual asetnya dalam jumlah besar (dump), menyebabkan harga anjlok dan merugikan investor yang terlambat masuk.\n\nSkema ini sering terjadi pada koin-koin dengan volume perdagangan rendah karena lebih mudah dimanipulasi. Biasanya, pelaku menggunakan media sosial, grup Telegram, atau forum untuk menggiring opini bahwa harga akan terus naik agar lebih banyak orang tergoda untuk membeli.\n\nAgar terhindar dari jebakan Pump and Dump, penting untuk selalu melakukan riset sebelum membeli aset kripto dan tidak mudah tergiur oleh janji keuntungan instan. Jika suatu koin tiba-tiba mengalami lonjakan harga tanpa alasan yang jelas, kemungkinan besar itu adalah bagian dari skema ini.\n"
+} ,
+  
+  {
+    "title"    : "Public Key",
+    "category" : "Kamus",
+    "url"      : "/public-key/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Public key adalah bagian dari sistem kriptografi yang digunakan untuk menerima transaksi dalam jaringan cryptocurrency. Setiap orang yang memiliki public key dapat membagikannya kepada siapa saja tanpa risiko kehilangan dana.\n\nPublic key bekerja b...",
+    "content"  : "Public key adalah bagian dari sistem kriptografi yang digunakan untuk menerima transaksi dalam jaringan cryptocurrency. Setiap orang yang memiliki public key dapat membagikannya kepada siapa saja tanpa risiko kehilangan dana.\n\nPublic key bekerja bersama dengan private key dalam teknologi enkripsi asimetris. Saat seseorang mengirimkan cryptocurrency ke alamat yang dibuat dari public key, hanya pemilik private key yang sesuai yang dapat mengakses dan menggunakannya.\n\nKeamanan public key bergantung pada kompleksitas matematika yang membuatnya hampir mustahil untuk diretas. Oleh karena itu, meskipun public key dapat dibagikan secara bebas, private key harus selalu dijaga kerahasiaannya.\n"
+} ,
+  
+  {
+    "title"    : "Private Key",
+    "category" : "Kamus",
+    "url"      : "/private-key/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Private key adalah kode rahasia yang berfungsi sebagai kunci untuk mengakses dan mengelola aset kripto dalam dompet digital. Kode ini berupa kombinasi angka dan huruf yang sangat panjang dan unik untuk setiap pengguna.\n\nSaat seseorang membuat domp...",
+    "content"  : "Private key adalah kode rahasia yang berfungsi sebagai kunci untuk mengakses dan mengelola aset kripto dalam dompet digital. Kode ini berupa kombinasi angka dan huruf yang sangat panjang dan unik untuk setiap pengguna.\n\nSaat seseorang membuat dompet kripto, sistem akan menghasilkan private key yang hanya boleh diketahui oleh pemiliknya. Jika private key ini bocor atau hilang, siapa pun yang memilikinya bisa mengambil aset kripto tanpa izin.\n\nKarena sifatnya yang sangat penting, private key harus disimpan dengan aman, misalnya di dalam hardware wallet atau ditulis di tempat yang tidak bisa diakses orang lain. Tidak ada cara untuk memulihkan aset jika private key hilang, sehingga kehati-hatian dalam menyimpannya adalah hal yang wajib.\n"
+} ,
+  
+  {
+    "title"    : "Node",
+    "category" : "Kamus",
+    "url"      : "/node/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Node adalah komputer atau perangkat yang terhubung ke jaringan blockchain untuk menyimpan, menyebarkan, dan memverifikasi transaksi. Setiap node memiliki salinan lengkap atau sebagian dari buku besar blockchain, yang memastikan transparansi dan ke...",
+    "content"  : "Node adalah komputer atau perangkat yang terhubung ke jaringan blockchain untuk menyimpan, menyebarkan, dan memverifikasi transaksi. Setiap node memiliki salinan lengkap atau sebagian dari buku besar blockchain, yang memastikan transparansi dan keamanan data.\n\nAda beberapa jenis node, seperti full node yang menyimpan seluruh riwayat transaksi dan light node yang hanya menyimpan data penting. Full node membantu menjaga integritas jaringan dengan memvalidasi transaksi, sementara light node lebih ringan dan cocok untuk pengguna biasa.\n\nNode bekerja dengan cara saling berkomunikasi untuk memastikan setiap transaksi valid sebelum ditambahkan ke blockchain. Dengan banyaknya node yang tersebar di seluruh dunia, blockchain menjadi sistem yang aman, tahan terhadap gangguan, dan sulit dimanipulasi.\n"
+} ,
+  
+  {
+    "title"    : "NFT",
+    "category" : "Kamus",
+    "url"      : "/nft/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "NFT (Non-Fungible Token) adalah aset digital unik yang tersimpan di blockchain, berbeda dari cryptocurrency seperti Bitcoin yang bisa ditukar satu sama lain. Karena sifatnya yang unik, NFT sering digunakan untuk merepresentasikan karya seni digita...",
+    "content"  : "NFT (Non-Fungible Token) adalah aset digital unik yang tersimpan di blockchain, berbeda dari cryptocurrency seperti Bitcoin yang bisa ditukar satu sama lain. Karena sifatnya yang unik, NFT sering digunakan untuk merepresentasikan karya seni digital, koleksi virtual, dan bahkan item dalam game.\n\nSetiap NFT memiliki informasi kepemilikan yang tercatat di blockchain, sehingga siapa pun bisa memverifikasi keasliannya. Ini membuat NFT menarik bagi seniman dan kreator, karena mereka bisa menjual karya mereka langsung ke pembeli tanpa perantara.\n\nMeski NFT bisa sangat berharga, harganya bergantung pada permintaan pasar dan bisa berubah-ubah. Oleh karena itu, sebelum membeli NFT, penting untuk memahami risikonya dan tidak hanya ikut tren tanpa riset yang cukup.\n"
 } ,
   
   {
@@ -97,6 +151,15 @@
     "date"     : "January 1, 2025",
     "excerpt"  : "Decentralized Finance (DeFi) adalah sistem keuangan berbasis blockchain yang memungkinkan transaksi tanpa perantara seperti bank atau lembaga keuangan tradisional. Dengan menggunakan smart contract di jaringan seperti Ethereum, DeFi memungkinkan l...",
     "content"  : "Decentralized Finance (DeFi) adalah sistem keuangan berbasis blockchain yang memungkinkan transaksi tanpa perantara seperti bank atau lembaga keuangan tradisional. Dengan menggunakan smart contract di jaringan seperti Ethereum, DeFi memungkinkan layanan keuangan seperti pinjaman, perdagangan, dan investasi dilakukan secara otomatis dan transparan.\n\nSalah satu keunggulan utama DeFi adalah aksesibilitasnya, di mana siapa saja dengan koneksi internet dapat menggunakan layanan keuangan tanpa perlu rekening bank. Selain itu, sistem ini lebih transparan dan aman karena semua transaksi tercatat di blockchain dan tidak bisa diubah sembarangan.\n\nMeski menawarkan banyak keuntungan, DeFi juga memiliki risiko seperti peretasan dan volatilitas harga aset yang tinggi. Oleh karena itu, penting bagi pengguna untuk melakukan riset sebelum berinvestasi dan hanya menggunakan platform yang terpercaya.\n"
+} ,
+  
+  {
+    "title"    : "DAO",
+    "category" : "Kamus",
+    "url"      : "/dao/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "DAO (Decentralized Autonomous Organization) adalah organisasi yang dijalankan menggunakan smart contract di blockchain tanpa pemimpin tunggal. Keputusan dalam DAO dibuat secara kolektif oleh anggota yang memiliki token sebagai hak suara.\n\nKeunggul...",
+    "content"  : "DAO (Decentralized Autonomous Organization) adalah organisasi yang dijalankan menggunakan smart contract di blockchain tanpa pemimpin tunggal. Keputusan dalam DAO dibuat secara kolektif oleh anggota yang memiliki token sebagai hak suara.\n\nKeunggulan DAO adalah transparansi dan desentralisasi, sehingga tidak ada pihak yang bisa mengendalikan organisasi secara sepihak. Semua aturan dan transaksi dapat dilihat oleh publik di blockchain, membuatnya lebih aman dan terpercaya.\n\nUntuk bergabung dengan DAO, seseorang biasanya harus memiliki token khusus yang memberi hak suara dalam pengambilan keputusan. DAO digunakan dalam berbagai bidang seperti investasi, komunitas digital, dan pengelolaan proyek tanpa campur tangan pihak ketiga.\n"
 } ,
   
   {
