@@ -28,6 +28,24 @@
 } ,
   
   {
+    "title"    : "White Paper",
+    "category" : "Kamus",
+    "url"      : "/white-paper/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "White Paper adalah dokumen resmi yang menjelaskan tujuan, teknologi, dan mekanisme suatu proyek kripto. Dokumen ini berisi detail teknis dan ekonomi yang membantu calon investor memahami cara kerja proyek tersebut.\n\nBiasanya, White Paper mencakup ...",
+    "content"  : "White Paper adalah dokumen resmi yang menjelaskan tujuan, teknologi, dan mekanisme suatu proyek kripto. Dokumen ini berisi detail teknis dan ekonomi yang membantu calon investor memahami cara kerja proyek tersebut.\n\nBiasanya, White Paper mencakup masalah yang ingin diselesaikan, cara solusinya bekerja, serta bagaimana token atau koin digunakan dalam ekosistemnya. Informasi ini penting agar pengguna dapat menilai apakah proyek tersebut layak untuk diinvestasikan atau tidak.\n\nBanyak proyek kripto terkenal, seperti Bitcoin dan Ethereum, memulai dengan White Paper mereka sendiri. Oleh karena itu, membaca White Paper sebelum berinvestasi adalah langkah bijak untuk menghindari penipuan dan memilih proyek yang berkualitas.\n"
+} ,
+  
+  {
+    "title"    : "Web3",
+    "category" : "Kamus",
+    "url"      : "/web3/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Web3 adalah konsep internet generasi baru yang berbasis teknologi blockchain, di mana pengguna memiliki kendali penuh atas data dan aset digital mereka. Berbeda dengan Web2 yang didominasi oleh perusahaan besar, Web3 memungkinkan transaksi dan int...",
+    "content"  : "Web3 adalah konsep internet generasi baru yang berbasis teknologi blockchain, di mana pengguna memiliki kendali penuh atas data dan aset digital mereka. Berbeda dengan Web2 yang didominasi oleh perusahaan besar, Web3 memungkinkan transaksi dan interaksi tanpa perantara.\n\nDalam Web3, aplikasi terdesentralisasi (dApps) menggantikan aplikasi tradisional dengan sistem yang lebih transparan dan aman. Semua data dan transaksi dicatat dalam blockchain, sehingga tidak bisa diubah atau dimanipulasi oleh pihak tunggal.\n\nKeunggulan Web3 termasuk kepemilikan aset digital seperti NFT dan penggunaan mata uang kripto tanpa perlu bergantung pada bank. Meski masih dalam tahap perkembangan, Web3 berpotensi mengubah cara kita berinteraksi di internet secara fundamental.\n"
+} ,
+  
+  {
     "title"    : "Token",
     "category" : "Kamus",
     "url"      : "/token/",
@@ -109,6 +127,15 @@
 } ,
   
   {
+    "title"    : "KYC",
+    "category" : "Kamus",
+    "url"      : "/kyc/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "KYC atau Know Your Customer adalah sebuah proses yang dilakukan oleh exchange untuk memverifikasi identitas penggunanya guna memenuhi regulasi. Dalam prosesnya, pengguna akan diminta untuk memasukkan beberapa dokume seperti KTP, paspor atau yang l...",
+    "content"  : "KYC atau Know Your Customer adalah sebuah proses yang dilakukan oleh exchange untuk memverifikasi identitas penggunanya guna memenuhi regulasi. Dalam prosesnya, pengguna akan diminta untuk memasukkan beberapa dokume seperti KTP, paspor atau yang lainnya.\n\nKYC merupakan hal yang wajib dilakukan jika kita ingin menggunakan CEX (Centralized Exchange). Tidak hanya untuk exchange lokal, tapi juga seluruh CEX yang ada di dunia ini.\n\nHal ini diperlukan untuk mengurangi tindak kejahatan pencucian uang dan semacamnya. Pengguna yang tidak melakukan KYC biasanya tidak dapat melakukan jual-beli di exchange yang ia gunakan.\n"
+} ,
+  
+  {
     "title"    : "HODL",
     "category" : "Kamus",
     "url"      : "/hodl/",
@@ -145,6 +172,24 @@
 } ,
   
   {
+    "title"    : "Ethereum Virtual Machine (EVM)",
+    "category" : "Kamus",
+    "url"      : "/evm/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Ethereum Virtual Machine (EVM) adalah sistem komputer virtual yang menjalankan smart contract di jaringan Ethereum. Ini memungkinkan pengembang untuk membuat aplikasi terdesentralisasi (dApps) yang berjalan secara otomatis tanpa perlu pihak ketiga...",
+    "content"  : "Ethereum Virtual Machine (EVM) adalah sistem komputer virtual yang menjalankan smart contract di jaringan Ethereum. Ini memungkinkan pengembang untuk membuat aplikasi terdesentralisasi (dApps) yang berjalan secara otomatis tanpa perlu pihak ketiga.\n\nEVM bekerja dengan mengeksekusi kode yang ditulis dalam bahasa pemrograman Solidity dan mengubahnya menjadi instruksi yang bisa dipahami oleh jaringan Ethereum. Setiap transaksi yang melibatkan smart contract dikenakan biaya gas, yang dibayarkan dalam bentuk Ether (ETH) untuk menghindari penyalahgunaan jaringan.\n\nKeunggulan utama EVM adalah kemampuannya untuk memastikan eksekusi kode yang aman dan konsisten di semua node Ethereum. Dengan sifatnya yang terdesentralisasi, EVM memungkinkan inovasi seperti keuangan terdesentralisasi (DeFi) dan token non-fungible (NFT) berkembang pesat.\n"
+} ,
+  
+  {
+    "title"    : "Decentralized Exchange (DEX)",
+    "category" : "Kamus",
+    "url"      : "/dex/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Decentralized Exchange (DEX) adalah platform untuk membeli dan menjual cryptocurrency tanpa perantara, seperti bank atau perusahaan. Semua transaksi dilakukan langsung antara pengguna menggunakan teknologi blockchain dan smart contract.\n\nKeunggula...",
+    "content"  : "Decentralized Exchange (DEX) adalah platform untuk membeli dan menjual cryptocurrency tanpa perantara, seperti bank atau perusahaan. Semua transaksi dilakukan langsung antara pengguna menggunakan teknologi blockchain dan smart contract.\n\nKeunggulan utama DEX adalah keamanan dan privasi yang lebih baik karena pengguna tetap memegang kendali penuh atas aset mereka. Selain itu, DEX biasanya tidak memerlukan proses verifikasi identitas (KYC), sehingga lebih anonim dibandingkan bursa terpusat (CEX).\n\nNamun, DEX juga memiliki kelemahan, seperti likuiditas yang lebih rendah dan antarmuka yang kurang ramah bagi pemula. Oleh karena itu, sebelum menggunakan DEX, penting untuk memahami cara kerja dompet kripto dan smart contract agar transaksi lebih aman.\n"
+} ,
+  
+  {
     "title"    : "DeFi",
     "category" : "Kamus",
     "url"      : "/defi/",
@@ -154,12 +199,30 @@
 } ,
   
   {
+    "title"    : "Decentralized Applications (DApps)",
+    "category" : "Kamus",
+    "url"      : "/dapps/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Decentralized Applications (DApps) adalah aplikasi yang berjalan di atas jaringan blockchain tanpa dikendalikan oleh satu pihak pusat. Berbeda dengan aplikasi biasa yang dikelola oleh perusahaan, DApps bersifat terbuka dan transparan, sehingga sia...",
+    "content"  : "Decentralized Applications (DApps) adalah aplikasi yang berjalan di atas jaringan blockchain tanpa dikendalikan oleh satu pihak pusat. Berbeda dengan aplikasi biasa yang dikelola oleh perusahaan, DApps bersifat terbuka dan transparan, sehingga siapa pun dapat melihat cara kerjanya.\n\nKeunggulan utama DApps adalah keamanannya yang tinggi karena data tersimpan di banyak komputer dalam jaringan blockchain, bukan di satu server pusat. Selain itu, DApps sering menggunakan smart contract, yaitu program otomatis yang mengeksekusi perintah tanpa perlu perantara.\n\nContoh populer DApps meliputi Uniswap (untuk pertukaran aset kripto) dan OpenSea (pasar NFT), yang memungkinkan pengguna bertransaksi tanpa perantara. Dengan semakin berkembangnya teknologi blockchain, DApps diharapkan bisa mengubah berbagai industri, mulai dari keuangan hingga media sosial.\n"
+} ,
+  
+  {
     "title"    : "DAO",
     "category" : "Kamus",
     "url"      : "/dao/",
     "date"     : "January 1, 2025",
     "excerpt"  : "DAO (Decentralized Autonomous Organization) adalah organisasi yang dijalankan menggunakan smart contract di blockchain tanpa pemimpin tunggal. Keputusan dalam DAO dibuat secara kolektif oleh anggota yang memiliki token sebagai hak suara.\n\nKeunggul...",
     "content"  : "DAO (Decentralized Autonomous Organization) adalah organisasi yang dijalankan menggunakan smart contract di blockchain tanpa pemimpin tunggal. Keputusan dalam DAO dibuat secara kolektif oleh anggota yang memiliki token sebagai hak suara.\n\nKeunggulan DAO adalah transparansi dan desentralisasi, sehingga tidak ada pihak yang bisa mengendalikan organisasi secara sepihak. Semua aturan dan transaksi dapat dilihat oleh publik di blockchain, membuatnya lebih aman dan terpercaya.\n\nUntuk bergabung dengan DAO, seseorang biasanya harus memiliki token khusus yang memberi hak suara dalam pengambilan keputusan. DAO digunakan dalam berbagai bidang seperti investasi, komunitas digital, dan pengelolaan proyek tanpa campur tangan pihak ketiga.\n"
+} ,
+  
+  {
+    "title"    : "Centralized Exchange (CEX)",
+    "category" : "Kamus",
+    "url"      : "/cex/",
+    "date"     : "January 1, 2025",
+    "excerpt"  : "Centralized Exchange (CEX) adalah platform tempat pengguna dapat membeli, menjual, dan menukar cryptocurrency dengan mudah. Platform ini dikelola oleh perusahaan yang bertindak sebagai perantara dalam setiap transaksi, seperti Indodax, Pintu, atau...",
+    "content"  : "Centralized Exchange (CEX) adalah platform tempat pengguna dapat membeli, menjual, dan menukar cryptocurrency dengan mudah. Platform ini dikelola oleh perusahaan yang bertindak sebagai perantara dalam setiap transaksi, seperti Indodax, Pintu, atau Tokocrypto.\n\nKeunggulan utama CEX adalah kemudahan penggunaan, kecepatan transaksi, dan likuiditas tinggi, yang membuatnya cocok untuk pemula. Namun, pengguna harus mempercayakan aset mereka kepada platform, sehingga ada risiko jika terjadi peretasan atau masalah keamanan.\n\nUntuk menggunakan CEX, pengguna harus membuat akun, melakukan verifikasi identitas, dan menyetor dana sebelum mulai berdagang. Karena sifatnya yang terpusat, pemerintah dapat mengatur dan mengawasi CEX, menjadikannya lebih aman tetapi kurang anonim dibandingkan dengan metode perdagangan terdesentralisasi.\n"
 } ,
   
   {
@@ -190,21 +253,21 @@
 } ,
   
   {
-    "title"    : "Bear Market",
+    "title"    : "Atomic Swap",
     "category" : "Kamus",
-    "url"      : "/bear-market-1/",
+    "url"      : "/atomic-swap/",
     "date"     : "January 1, 2025",
-    "excerpt"  : "Bear market adalah kondisi pasar di mana harga aset kripto mengalami penurunan signifikan dalam jangka waktu yang cukup lama. Biasanya, ini disebabkan oleh sentimen negatif, seperti ketidakpastian ekonomi, regulasi ketat, atau penurunan kepercayaa...",
-    "content"  : "Bear market adalah kondisi pasar di mana harga aset kripto mengalami penurunan signifikan dalam jangka waktu yang cukup lama. Biasanya, ini disebabkan oleh sentimen negatif, seperti ketidakpastian ekonomi, regulasi ketat, atau penurunan kepercayaan investor.\n\nDalam bear market, banyak investor cenderung menjual aset mereka karena takut harga akan turun lebih jauh. Hal ini sering kali menyebabkan efek domino, di mana semakin banyak orang menjual, harga semakin anjlok.\n\nMeski terdengar menakutkan, bear market juga bisa menjadi peluang bagi investor yang sabar. Mereka yang memahami strategi investasi jangka panjang dapat memanfaatkan harga rendah untuk membeli aset sebelum pasar kembali pulih.\n"
+    "excerpt"  : "Atomic Swap adalah teknologi yang memungkinkan pertukaran langsung antara dua cryptocurrency yang berbeda tanpa perantara seperti bursa kripto. Proses ini menggunakan smart contract khusus untuk memastikan bahwa kedua pihak memenuhi syarat sebelum...",
+    "content"  : "Atomic Swap adalah teknologi yang memungkinkan pertukaran langsung antara dua cryptocurrency yang berbeda tanpa perantara seperti bursa kripto. Proses ini menggunakan smart contract khusus untuk memastikan bahwa kedua pihak memenuhi syarat sebelum transaksi dieksekusi.\n\nKeuntungan utama Atomic Swap adalah meningkatkan keamanan dan privasi karena tidak perlu menitipkan aset di platform pihak ketiga. Selain itu, pengguna memiliki kendali penuh atas koin mereka sepanjang proses tanpa risiko penipuan atau pembekuan dana.\n\nNamun, teknologi ini masih memiliki keterbatasan, seperti hanya dapat dilakukan antara koin yang mendukung skrip hash time-locked contract (HTLC). Meskipun begitu, dengan perkembangan teknologi blockchain, Atomic Swap berpotensi menjadi solusi utama dalam perdagangan aset kripto yang lebih aman dan efisien.\n"
 } ,
   
   {
-    "title"    : "KYC",
+    "title"    : "Airdrop",
     "category" : "Kamus",
-    "url"      : "/KYC/",
+    "url"      : "/airdrop/",
     "date"     : "January 1, 2025",
-    "excerpt"  : "KYC atau Know Your Customer adalah sebuah proses yang dilakukan oleh exchange untuk memverifikasi identitas penggunanya guna memenuhi regulasi. Dalam prosesnya, pengguna akan diminta untuk memasukkan beberapa dokume seperti KTP, paspor atau yang l...",
-    "content"  : "KYC atau Know Your Customer adalah sebuah proses yang dilakukan oleh exchange untuk memverifikasi identitas penggunanya guna memenuhi regulasi. Dalam prosesnya, pengguna akan diminta untuk memasukkan beberapa dokume seperti KTP, paspor atau yang lainnya.\n\nKYC merupakan hal yang wajib dilakukan jika kita ingin menggunakan CEX (Centralized Exchange). Tidak hanya untuk exchange lokal, tapi juga seluruh CEX yang ada di dunia ini.\n\nHal ini diperlukan untuk mengurangi tindak kejahatan pencucian uang dan semacamnya. Pengguna yang tidak melakukan KYC biasanya tidak dapat melakukan jual-beli di exchange yang ia gunakan.\n"
+    "excerpt"  : "Airdrop adalah strategi pemasaran yang digunakan proyek kripto untuk mendistribusikan token secara gratis kepada pengguna. Biasanya, pengguna hanya perlu melakukan tugas sederhana seperti mengikuti media sosial atau memiliki dompet tertentu untuk ...",
+    "content"  : "Airdrop adalah strategi pemasaran yang digunakan proyek kripto untuk mendistribusikan token secara gratis kepada pengguna. Biasanya, pengguna hanya perlu melakukan tugas sederhana seperti mengikuti media sosial atau memiliki dompet tertentu untuk memenuhi syarat.\n\nTujuan utama airdrop adalah meningkatkan kesadaran dan menarik lebih banyak orang untuk menggunakan token tersebut. Dengan memberikan token gratis, proyek berharap penerima akan mulai memperdagangkan atau menggunakannya dalam ekosistem mereka.\n\nNamun, tidak semua airdrop aman, karena beberapa bisa berupa penipuan yang bertujuan mencuri data atau aset pengguna. Oleh karena itu, penting untuk selalu melakukan riset sebelum mengikuti airdrop dan hanya menggunakan dompet yang aman.\n"
 } 
   
 ]

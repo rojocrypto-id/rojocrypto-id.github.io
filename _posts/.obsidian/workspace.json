@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-01-bear-market 1.md",
+                "file": "2025-01-01-web3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-01-bear-market 1"
+              "title": "2025-01-01-web3"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-01-01-bear-market 1.md",
+                "file": "2025-01-01-web3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-01-bear-market 1"
+              "title": "Backlinks for 2025-01-01-web3"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-01-01-bear-market 1.md",
+                "file": "2025-01-01-web3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-01-bear-market 1"
+              "title": "Outgoing links from 2025-01-01-web3"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-01-bear-market 1.md",
+                "file": "2025-01-01-web3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-01-bear-market 1"
+              "title": "Outline of 2025-01-01-web3"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "a51fc6f32d187aee",
   "lastOpenFiles": [
+    "2025-01-01-airdrop.md",
+    "2025-01-01-web3.md",
+    "2025-01-01-white-paper.md",
+    "2025-01-01-evm.md",
+    "2025-01-01-dapps.md",
+    "2025-01-01-cex.md",
+    "2025-01-01-kyc.md",
+    "2025-01-01-dex.md",
+    "2025-01-01-atomic-swap.md",
     "2025-01-01-bear-market.md",
-    "2025-01-01-bear-market 1.md",
     "2025-01-01-rug-pull.md",
     "2025-01-01-token.md",
     "2025-01-01-defi.md",
@@ -202,12 +210,6 @@
     "2025-01-01-yield-farming.md",
     "2025-01-01-bull-market.md",
     "2025-01-01-blockchain.md",
-    "2025-01-01-exchange.md",
-    "2025-01-01-fomo.md",
-    "2025-01-01-fud.md",
-    "2025-01-01-hodl.md",
-    "2025-01-01-KYC.md",
-    "2025-01-01-pump-and-dump.md",
-    "yield-farming.md"
+    "2025-01-01-exchange.md"
   ]
 }
