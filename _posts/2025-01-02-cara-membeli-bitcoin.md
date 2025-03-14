@@ -77,9 +77,9 @@ Klik tombol dibawah ini jika ingin membuat akun di Tokocrypto dan mendapatkan di
 
 **Luno**
 
-Ini merupakan *exchange* lokal yang underrated. Jarang sekali orang yang membahasnya di internet, terutama para pengguna *crypto* di Indonesia. 
+Ini merupakan *exchange* lokal yang *underrated*. Jarang sekali orang yang membahasnya di internet, terutama para pengguna *crypto* di Indonesia. 
 
-Alasan kenapa saya menyukai aplikasi ini adalah karena Luno memiliki beberapa kelebihan yang tidak dimiliki oleh *exchange* lokal lainnya, seperti: biaya *withdraw* Bitcoin yang dinamis, antarmuka yang simpel dan sederhana, dan masih banyak lagi. 
+Alasan kenapa saya menyukai aplikasi ini adalah karena Luno memiliki beberapa kelebihan yang tidak dimiliki oleh [*exchange*](https://rojocrypto.com/exchange/) lokal lainnya, seperti: biaya *withdraw* Bitcoin yang dinamis, antarmuka yang simpel dan sederhana, dan masih banyak lagi. 
 
 [**Indodax**](https://indodax.com/ref/yusyulianto/1)
 
@@ -89,7 +89,7 @@ Kelebihan Indodax dibanding *exchange* lokal lainnya adalah Indodax memiliki lik
 
 ## Cara Menggunakan Pintu untuk Membeli Bitcoin
 
-Kalian perlu mengunduh Pintu terlebih dahulu di App Store atau Play Store (silahkan sesuaikan dengan platform yang kalian gunakan). Kemudian silahkan buat akun jika kalian belum memilikinya. 
+Kalian perlu mengunduh Pintu terlebih dahulu di [App Store](https://apps.apple.com/id/app/pintu-buy-invest-crypto/id1494119678) atau [Play Store](https://play.google.com/store/apps/details?id=com.valar.pintu&hl=id) (silahkan sesuaikan dengan platform yang kalian gunakan). Kemudian silahkan buat akun jika kalian belum memilikinya. 
 
 Seperti yang sudah saya jelaskan sebelumnya, silahkan gunakan kode *referral* saya dibawah ini untuk mendapatkan bonus 0.004% secara permanen:
 
@@ -146,7 +146,7 @@ Sama seperti emas, kita tidak perlu membeli 1 kilogram emas secara langsung. Kit
 
 Membeli Bitcoin melalui *exchange* mewajibkan kalian untuk melakukan [KYC](https://rojocrypto.com/kyc/) . Kalian harus memfoto wajah dan KTP untuk dapat menggunakan *exchange* tersebut secara penuh. 
 
-Sebagian diantara kalian mungkin ada yang kurang nyama untuk membagikan foto wajah dan KTP ke *exchange*. Lantas, adakah cara alternatif untuk membeli Bitcoin tanpa melalui *exchange*? Tentu saja ada. 
+Sebagian diantara kalian mungkin ada yang kurang nyama untuk membagikan foto wajah dan KTP ke [*exchange*](https://rojocrypto.com/exchange/). Lantas, adakah cara alternatif untuk membeli Bitcoin tanpa melalui *exchange*? Tentu saja ada. 
 
 Kalian dapat membeli Bitcoin dari pengguna Bitcoin lainnya. Kalian dapat mencarinya di internet, seperti di komunitas Bitcoin. Namun tentu saja cara ini datang dengan resikonya sendiri. 
 
@@ -162,7 +162,7 @@ Setelah selesai membeli Bitcoin di *exchange*, sebenarnya kalian dapat membiarka
 
 *Exchange* tempat kalian membeli Bitcoin bisa saja terkena *hack*. Jika itu terjadi, maka Bitcoin yang kalian simpan di *exchange* tersebut akan dalam masalah. Kemungkinan terburuknya kalian akan kehilangan Bitcoin kalian yang berharga itu.
 
-Peretasan *exchange* bukan merupakan hal yang sekali atau dua kali terjadi. Sudah banyak *exchange crypto* yang pernah mengalami peretasan. Mulai dari Binance di tahun 2019, Mt. Gox di tahun 2014 hingga yang terbaru yaitu Indodax di tahun 2024.
+Peretasan *exchange* bukan merupakan hal yang sekali atau dua kali terjadi. Sudah banyak *exchange crypto* yang pernah mengalami peretasan. Mulai dari [Binance di tahun 2019](https://www.binance.com/en/support/announcement/detail/360028031711), [Mt. Gox di tahun 2014](https://en.wikipedia.org/wiki/Mt._Gox?utm_source=chatgpt.com) hingga yang terbaru yaitu [Indodax di tahun 2024](https://finance.yahoo.com/news/indonesian-crypto-exchange-indodax-hacked-081339655.html?utm_source=chatgpt.com).
 
 Indodax sendiri memang bertanggung jawab penuh atas peretasan tersebut. Namun tetap saja, para penggunanya kalang kabut ketika mengetahui berita Indodax terkena *hack*.
 
