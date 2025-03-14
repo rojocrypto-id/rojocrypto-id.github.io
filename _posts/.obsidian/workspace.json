@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-01-satoshi.md",
+                "file": "2025-01-01-liquidity-pool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-01-satoshi"
+              "title": "2025-01-01-liquidity-pool"
             }
           }
         ],
@@ -185,8 +185,12 @@
   },
   "active": "a51fc6f32d187aee",
   "lastOpenFiles": [
-    "2025-01-01-pump-and-dump.md",
+    "2025-01-01-airdrop.md",
+    "2025-01-01-liquidity-pool.md",
+    "2025-01-01-ico.md",
+    "2025-01-01-slippage.md",
     "2025-01-01-satoshi.md",
+    "2025-01-01-pump-and-dump.md",
     "2025-01-01-shitcoin.md",
     "2025-01-01-white-paper.md",
     "2025-01-03-apa-itu-bitcoin.md",
@@ -205,11 +209,7 @@
     "2025-01-01-exchange.md",
     "2025-01-01-proof-of-stake.md",
     "2025-01-01-proof-of-work.md",
-    "2025-01-01-airdrop.md",
     "2025-01-01-trc20.md",
-    "2025-01-01-defi.md",
-    "2025-01-01-dusting-attack.md",
-    "2025-01-01-brc20.md",
-    "2025-01-01-bep20.md"
+    "2025-01-01-defi.md"
   ]
 }
