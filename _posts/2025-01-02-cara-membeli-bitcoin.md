@@ -174,7 +174,7 @@ Dompet atau *wallet* Bitcoin terbagi menjadi 2 jenis. Yaitu *software wallet* da
 
 Sedangkan *hardware wallet* adalah dompet Bitcoin dalam bentuk perangkat keras tersendiri. Untuk dapat menggunakan *hardware wallet*, kita harus membelinya. Setiap pabrikan *hardware wallet* memiliki model yang berbeda-beda dengan harga yang bervariasi pula.
 
-Contoh *software wallet* yang dapat kalian gunakan untuk menyimpan Bitcoin adalah Electrum, Green. Sedangkan contoh *hardware wallet* adalah Trezor, Ledger, Safepal dan masih banyak lagi.
+Contoh *software wallet* yang dapat kalian gunakan untuk menyimpan Bitcoin adalah [Electrum](https://electrum.org/?utm_source=chatgpt.com), [Green](https://blockstream.com/green/?utm_source=chatgpt.com). Sedangkan contoh *hardware wallet* adalah Trezor, Ledger, [Safepal](https://tokopedia.link/DXLGGgBVCQb) dan masih banyak lagi.
 
 ## Kesimpulan
 
@@ -182,8 +182,8 @@ Jika kalian telah membaca seluruh isi artikel ini, maka selamat. Seharusnya seka
 
 Semoga artikel ini benar-benar membantu kalian, terutama untuk kalian yang memang baru pertama kali ingin membeli Bitcoin. Dan jika tidak keberatan, bagikan artikel ini ke media sosial kalian seperti Facebook, X atau Instagram.
 
-Bagi kalian hanya sekedar membagikan artikel ini ke media sosial mungkin terlihat remeh dan tidak berarti apa-apa Namun percayalah, bagi kami, itu sangat berarti. 
+Bagi kalian hanya sekedar membagikan artikel ini ke media sosial mungkin terlihat remeh dan tidak berarti apa-apa. Namun percayalah, bagi kami, itu sangat berarti. 
 
 Dengan membagikan artikel ini ke media sosial kalian, kalian telah membantu teman-teman kalian mengenal Bitcoin serta membantu Rojocrypto untuk tetap ada, setidaknya untuk beberapa bulan ke depan. 
 
-Artikel ini akan terus saya perbarui agar tetap relevan dibaca kapan pun. Bitcoin akan terus berkembang, *exchange* yang saya rekomendasikan juga akan silih berganti, jadi tidak ada salahnya kalian kembali lagi ke artikel ini, siapa tahu ada perubahan yang perlu kalian ketahui.
+Artikel ini akan terus saya perbarui agar tetap relevan dibaca kapan pun karena itcoin akan terus berkembang, *exchange* yang saya rekomendasikan juga akan silih berganti, jadi tidak ada salahnya kalian kembali lagi ke artikel ini, siapa tahu ada perubahan yang perlu kalian ketahui.
