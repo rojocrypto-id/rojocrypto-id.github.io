@@ -51,6 +51,7 @@ Penggunaan *hardware wallet* akan menekan kemungkinan terkena *phising*, terutam
 Hampir semua *hardware wallet* juga dilengkapi dengan *chip* enkripsi khusus yang membuatnya mustahil untuk di *hack*.
 ## 1. Trezor Model T
 
+![Trezor Model T](/assets/image/trezor-model-t.jpg)
 [Tokopedia (IDR 2.399.999)](https://tokopedia.link/7xwJ02GzJRb) / [Shopee (IDR 2.399.999)](https://invl.me/clml0rn)
 
 Trezor Model T adalah *hardware wallet* premium dengan layar sentuh yang memudahkan pengelolaan aset kripto kalian. Perangkat ini mendukung berbagai macam *cryptocurrency* dan menawarkan fitur keamanan tambahan seperti *passphrase*.
@@ -58,6 +59,7 @@ Trezor Model T adalah *hardware wallet* premium dengan layar sentuh yang memudah
 Trezor Model T juga menggunakan *open-source firmware* yang memungkinkan transparansi dan audit keamanan oleh komunitas. Dengan desain yang modern dan intuitif, *wallet* ini cocok untuk pemula maupun pengguna berpengalaman.
 ## 2. Ledger Nano X
 
+![Edger Nano X](/assets/image/ledger-nano-x.jpg)
 [Tokopedia (IDR 2.399.999)](https://tokopedia.link/xIMM8f3zJRb) / [Shopee (IDR 2.499.999)](https://invl.me/clml0rw)
 
 Ledger Nano X adalah salah satu *hardware wallet* paling populer di pasaran. Dengan dukungan lebih dari 1.800 jenis *cryptocurrency*, perangkat ini menawarkan keamanan tingkat tinggi dengan fitur Bluetooth untuk kemudahan akses.
@@ -66,6 +68,7 @@ Selain itu, Ledger Nano X memiliki layar yang cukup besar untuk memudahkan navig
 
 ## 3. Trezor One
 
+![Trezor One](/assets/image/trezor-one.jpg)
 [Tokopedia (IDR 999.999)](https://tokopedia.link/D0L45OfAJRb) / [Shopee (IDR 2.217000)](https://invl.me/clml0s4)
 
 Trezor One adalah salah satu *hardware wallet* pertama di dunia yang masih menjadi pilihan populer hingga saat ini. Dengan harga yang lebih terjangkau dibandingkan Model T, *wallet* ini tetap menawarkan keamanan tinggi bagi pengguna kripto.
@@ -73,6 +76,7 @@ Trezor One adalah salah satu *hardware wallet* pertama di dunia yang masih menja
 Perangkat ini memiliki layar kecil dan dua tombol fisik untuk navigasi, yang membuatnya sederhana namun efektif. Dukungan terhadap berbagai jenis *cryptocurrency* menjadikannya pilihan yang solid untuk pemula.
 ## 4. Ledger Nano S Plus
 
+![Ledger Nano S Plus](/assets/image/ledger-nano-s-plus.jpg)
 [Tokopedia (IDR 1.499.999)](https://tokopedia.link/TfuU8joAJRb) / [Shopee (IDR IDR 1.499..999)](https://invl.me/clml0s9)
 
 Ledger Nano S Plus adalah versi peningkatan dari Ledger Nano S yang terkenal dengan harga terjangkau. *Wallet* ini memiliki penyimpanan lebih besar sehingga memungkinkan pengguna menginstal lebih banyak aplikasi kripto.
@@ -81,6 +85,7 @@ Seperti model lainnya dari Ledger, Nano S Plus juga memiliki chip keamanan berse
 
 ## 5. SafePal S1
 
+![SafePal S1](/assets/image/safepal-s1.jpg)
 [Tokopedia (IDR 849.999)](https://tokopedia.link/DXLGGgBVCQb) / [Shopee (IDR 1.099.999)](https://invl.me/clml0sc)
 
 SafePal S1 adalah *hardware wallet* inovatif yang dirancang untuk memberikan keamanan tingkat tinggi dengan harga terjangkau. Perangkat ini sepenuhnya *offline* dan menggunakan teknologi *air-gapped*, sehingga tidak memerlukan koneksi USB atau Bluetooth.
