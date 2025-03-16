@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-01-margin-call.md",
+                "file": "2025-01-01-custodial-wallet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-01-margin-call"
+              "title": "2025-01-01-custodial-wallet"
             }
           },
           {
@@ -184,10 +184,18 @@
   },
   "active": "3cf41b359c04758a",
   "lastOpenFiles": [
-    "2025-01-04-hardware-wallet-terbaik.md",
-    "2025-01-01-margin-call.md",
-    "2025-01-03-apa-itu-bitcoin.md",
+    "2025-01-01-non-custodial-wallet.md",
+    "2025-01-01-custodial-wallet.md",
+    "2025-01-01-stop-loss.md",
+    "Untitled",
+    "2025-01-01-hardware-wallet.md",
+    "2025-01-01-transaction-per-second.md",
+    "2025-01-01-satoshi-nakamoto.md",
     "2025-01-01-airdrop.md",
+    "2025-01-01-leverage.md",
+    "2025-01-01-margin-call.md",
+    "2025-01-04-hardware-wallet-terbaik.md",
+    "2025-01-03-apa-itu-bitcoin.md",
     "2025-01-02-cara-membeli-bitcoin.md",
     "2025-01-01-bep20.md",
     "2025-01-01-liquidity-pool.md",
@@ -202,13 +210,6 @@
     "2025-01-01-token.md",
     "2025-01-01-hodl.md",
     "2025-01-01-kyc.md",
-    "2025-01-01-nft.md",
-    "2025-01-01-node.md",
-    "2025-01-01-blockchain.md",
-    "2025-01-01-bull-market.md",
-    "2025-01-01-erc20.md",
-    "2025-01-01-mempool.md",
-    "2025-01-01-evm.md",
-    "2025-01-01-exchange.md"
+    "2025-01-01-nft.md"
   ]
 }
