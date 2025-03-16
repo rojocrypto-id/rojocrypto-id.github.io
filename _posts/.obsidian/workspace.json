@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-03-apa-itu-bitcoin.md",
+                "file": "2025-01-01-margin-call.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-03-apa-itu-bitcoin"
+              "title": "2025-01-01-margin-call"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "2025-01-04-hardware-wallet-terbaik"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,14 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a51fc6f32d187aee",
+  "active": "3cf41b359c04758a",
   "lastOpenFiles": [
-    "2025-01-03-apa-itu-bitcoin.md",
     "2025-01-04-hardware-wallet-terbaik.md",
+    "2025-01-01-margin-call.md",
+    "2025-01-03-apa-itu-bitcoin.md",
+    "2025-01-01-airdrop.md",
     "2025-01-02-cara-membeli-bitcoin.md",
     "2025-01-01-bep20.md",
     "2025-01-01-liquidity-pool.md",
-    "2025-01-01-airdrop.md",
     "2025-01-01-ico.md",
     "2025-01-01-slippage.md",
     "2025-01-01-satoshi.md",
@@ -209,7 +209,6 @@
     "2025-01-01-erc20.md",
     "2025-01-01-mempool.md",
     "2025-01-01-evm.md",
-    "2025-01-01-exchange.md",
-    "2025-01-01-proof-of-stake.md"
+    "2025-01-01-exchange.md"
   ]
 }
