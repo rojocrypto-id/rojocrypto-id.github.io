@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-06-kesalahan-pemula-investasi-crypto.md",
+                "file": "2025-01-01-ether.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-06-kesalahan-pemula-investasi-crypto"
+              "title": "2025-01-01-ether"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -168,10 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74956555f7b1129e",
+  "active": "3cf41b359c04758a",
   "lastOpenFiles": [
-    "2025-01-05-perbedaan-bitcoin-ethereum-altcoin.md",
+    "2025-01-01-memecoin.md",
+    "2025-01-01-ether.md",
+    "2025-01-01-stablecoin.md",
+    "2025-01-01-recovery-phrase.md",
+    "2025-01-01-dyor.md",
     "2025-01-06-kesalahan-pemula-investasi-crypto.md",
+    "2025-01-01-transaction-per-second.md",
+    "2025-01-05-perbedaan-bitcoin-ethereum-altcoin.md",
     "2025-01-04-hardware-wallet-terbaik.md",
     "2025-01-01-bep20.md",
     "2025-01-01-lightning-network.md",
@@ -190,12 +196,6 @@
     "2025-01-01-exchange.md",
     "2025-01-01-fomo.md",
     "2025-01-01-fud.md",
-    "2025-01-01-halving.md",
-    "2025-01-01-stop-loss.md",
-    "{{.md",
-    "2025-01-01-airdrop.md",
-    "2025-01-01-bagholder.md",
-    "2025-01-01-altcoin.md",
     "Untitled"
   ]
 }
