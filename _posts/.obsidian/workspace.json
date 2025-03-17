@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-01-bagholder.md",
+                "file": "2025-01-06-kesalahan-pemula-investasi-crypto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-01-bagholder"
+              "title": "2025-01-06-kesalahan-pemula-investasi-crypto"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pump",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,34 +168,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cf41b359c04758a",
+  "active": "74956555f7b1129e",
   "lastOpenFiles": [
-    "2025-01-01-altcoin.md",
-    "2025-01-01-bagholder.md",
-    "2025-01-01-airdrop.md",
-    "2025-01-01-whale.md",
-    "2025-01-01-halving.md",
-    "2025-01-01-ordinals.md",
-    "2025-01-01-pump-and-dump.md",
-    "2025-01-01-smart-contract.md",
-    "2025-01-01-staking.md",
-    "2025-01-01-stop-loss.md",
-    "2025-01-01-token.md",
-    "2025-01-01-transaction-per-second.md",
-    "2025-01-01-trc20.md",
-    "2025-01-01-web3.md",
-    "2025-01-01-white-paper.md",
-    "2025-01-01-yield-farming.md",
-    "2025-01-01-atomic-swap.md",
-    "2025-01-01-bear-market.md",
+    "2025-01-05-perbedaan-bitcoin-ethereum-altcoin.md",
+    "2025-01-06-kesalahan-pemula-investasi-crypto.md",
+    "2025-01-04-hardware-wallet-terbaik.md",
     "2025-01-01-bep20.md",
-    "2025-01-01-blockchain.md",
+    "2025-01-01-lightning-network.md",
+    "2025-01-01-yield-farming.md",
     "2025-01-01-brc20.md",
     "2025-01-01-bull-market.md",
     "2025-01-01-cex.md",
     "2025-01-01-custodial-wallet.md",
     "2025-01-01-dao.md",
+    "2025-01-01-dapps.md",
+    "2025-01-01-defi.md",
+    "2025-01-01-dex.md",
     "2025-01-01-dusting-attack.md",
+    "2025-01-01-erc20.md",
+    "2025-01-01-evm.md",
+    "2025-01-01-exchange.md",
+    "2025-01-01-fomo.md",
+    "2025-01-01-fud.md",
+    "2025-01-01-halving.md",
+    "2025-01-01-stop-loss.md",
+    "{{.md",
+    "2025-01-01-airdrop.md",
+    "2025-01-01-bagholder.md",
+    "2025-01-01-altcoin.md",
     "Untitled"
   ]
 }
