@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-01-ether.md",
+                "file": "2025-01-07-apa-itu-stablecoin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-01-ether"
+              "title": "2025-01-07-apa-itu-stablecoin"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "apa itu nft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,14 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cf41b359c04758a",
+  "active": "74956555f7b1129e",
   "lastOpenFiles": [
-    "2025-01-01-memecoin.md",
+    "2025-01-06-kesalahan-pemula-investasi-crypto.md",
+    "2025-01-07-apa-itu-stablecoin.md",
     "2025-01-01-ether.md",
+    "2025-01-01-memecoin.md",
     "2025-01-01-stablecoin.md",
     "2025-01-01-recovery-phrase.md",
     "2025-01-01-dyor.md",
-    "2025-01-06-kesalahan-pemula-investasi-crypto.md",
     "2025-01-01-transaction-per-second.md",
     "2025-01-05-perbedaan-bitcoin-ethereum-altcoin.md",
     "2025-01-04-hardware-wallet-terbaik.md",
@@ -195,7 +196,6 @@
     "2025-01-01-evm.md",
     "2025-01-01-exchange.md",
     "2025-01-01-fomo.md",
-    "2025-01-01-fud.md",
     "Untitled"
   ]
 }
