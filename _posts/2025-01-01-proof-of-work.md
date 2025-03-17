@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Airdrop
+title: Proof of Work (PoW)
 categories:
   - Kamus
 ---
