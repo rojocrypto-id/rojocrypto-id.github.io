@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Proof of Stake
+title: Proof of Stake (PoS)
 categories:
   - Kamus
 ---
