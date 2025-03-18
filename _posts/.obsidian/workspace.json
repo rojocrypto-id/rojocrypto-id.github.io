@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-07-apa-itu-stablecoin.md",
+                "file": "2025-01-09-cara-kerja-blockchain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-07-apa-itu-stablecoin"
+              "title": "2025-01-09-cara-kerja-blockchain"
             }
           }
         ]
@@ -170,7 +170,8 @@
   },
   "active": "3cf41b359c04758a",
   "lastOpenFiles": [
-    "2025-01-07-apa-itu-cryptocurrency.md",
+    "2025-01-08-apa-itu-cryptocurrency.md",
+    "2025-01-09-cara-kerja-blockchain.md",
     "2025-01-07-apa-itu-stablecoin.md",
     "2025-01-01-stablecoin.md",
     "2025-01-01-dapps.md",
@@ -195,7 +196,6 @@
     "2025-01-01-defi.md",
     "2025-01-01-dex.md",
     "2025-01-01-dusting-attack.md",
-    "2025-01-01-erc20.md",
     "Untitled"
   ]
 }
