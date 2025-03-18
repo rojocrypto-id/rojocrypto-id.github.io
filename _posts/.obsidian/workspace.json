@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-01-nft.md",
+                "file": "2025-01-07-apa-itu-stablecoin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-01-nft"
+              "title": "2025-01-07-apa-itu-stablecoin"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "work",
+                "query": "stablec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,13 +170,16 @@
   },
   "active": "3cf41b359c04758a",
   "lastOpenFiles": [
+    "2025-01-07-apa-itu-cryptocurrency.md",
+    "2025-01-07-apa-itu-stablecoin.md",
+    "2025-01-01-stablecoin.md",
+    "2025-01-01-dapps.md",
+    "2025-01-01-nft.md",
     "2025-01-01-proof-of-work.md",
     "2025-01-01-brc20.md",
-    "2025-01-07-apa-itu-stablecoin.md",
     "2025-01-06-kesalahan-pemula-investasi-crypto.md",
     "2025-01-01-ether.md",
     "2025-01-01-memecoin.md",
-    "2025-01-01-stablecoin.md",
     "2025-01-01-recovery-phrase.md",
     "2025-01-01-dyor.md",
     "2025-01-01-transaction-per-second.md",
@@ -189,13 +192,10 @@
     "2025-01-01-cex.md",
     "2025-01-01-custodial-wallet.md",
     "2025-01-01-dao.md",
-    "2025-01-01-dapps.md",
     "2025-01-01-defi.md",
     "2025-01-01-dex.md",
     "2025-01-01-dusting-attack.md",
     "2025-01-01-erc20.md",
-    "2025-01-01-evm.md",
-    "2025-01-01-exchange.md",
     "Untitled"
   ]
 }
