@@ -2,27 +2,18 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
+{% include author.html %}
 
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-    <div class="entry">
-      {% if post.content contains '<!--more-->' %}
-
-      {{ post.excerpt }}
-
-      {% else %}
-
-      {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
-
-      {% endif %}
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+    {% if site.posts.size > 0 %}
+      {% for post in paginator.posts %}
+        {% include article-content.html %}
+      {% endfor %}
+    {% endif %}
     </div>
-
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Selengkapnya&nbsp;&#183;{% include read-time.html content=post.content %}</a>
-  </article>
-  {% endfor %}
-
-  {% include pagination.html %}
+  </div>
 </div>
+
+{% include pagination.html %}

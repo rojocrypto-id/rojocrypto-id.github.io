@@ -1,113 +1,89 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Site locale
-lang: "id"
-
-# Name of your site (displayed in the header)
+#-------------------------------
+# General Site Settings
 title: Rojocrypto
-
-# Short bio or description (displayed in the header)
+logo: # You can add own logo. For example '/images/logo.png'.
 description: Tutorial Bitcoin dan Cryptocurrency terlengkap
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://rojocrypto.com/" # The base hostname & protocol for your site, e.g. http://example.com
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/avatar.png
+#-------------------------------
+# Author Settings
+author:
+  name: Profesor Clover
+  title: Selamat datang di Rojocrypto!
+  description: Rojocrypto adalah situs tempat kalian mempelajari berbagai macam hal mengenai Bitcoin dan cryptocurrency lainnya.
+  image: '/images/01.jpg'
+  avatar: '/images/01-1.jpg'
 
-#
-# Flags below are optional
-#
+social:
+- {icon: "ion-logo-youtube", label: YouTube, link: "https://youtube.com/@ProfesorCloverID"}
+- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
+- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
+- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
+- {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com/profesorclover"}
+- {icon: "ion-logo-github", label: Github, link: "https://github.com"}
 
-# Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
-# Used for Sitemap.xml and your RSS feed
-url: https://rojocrypto.com
+# Example of adding a new link to the author section - {icon: "ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
+# Other icons can be found at https://ionicons.com/v4/
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
 
-# Navigation menu
-navigation_links:
+#-------------------------------
+# Newsletter (_includes/footer-widgets/widget-subscribe.html)
+mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
+mailchimp__title: Get interesting news # Add your Title
+mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp__button__text: Join # Add your button text
 
-  - title: Tentang
-    url: /tentang
-  - title: Arsip
-    url: /arsip
-  - title: Cari
-    url: /cari
 
-# Footer icons
-footer_links:
-  - title: Feed
-    url: feed.xml
-    icon: fa fa-rss-square
+#-------------------------------
+# Contact Settings
+contact:
+  email: clovermediaid@gmail.com # Add your email for contact form
+  description: Bracia comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
-  - title: YouTube
-    url: https://www.youtube.com/@ProfesorCloverID/videos
-    icon: fa fa-youtube-square
+# NOTE
+# Bracia comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
 
-  - title: GitHub
-    url: https://github.com/forever-jekyll
-    icon: fa fa-github-square
 
-# Enter your copyright text if you wish to override the default one.
-#copyright: "This site is made with <3 by *me, myself, and I*."
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
-# Time zone
-timezone: Asia/Jakarta
 
-# Excerpt separator
-excerpt_separator: <!--more-->
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
 
-permalink: /:title/
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
 
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+paginate: 5
+paginate_path: "/page/:num"
 
-# Pagination
-paginate: 10
-paginate_path: "/page/:num/"
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
 
-# Set the Sass partials directory, as we're using @imports
+include:
+  - _pages
+
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  /:title
+
 sass:
   sass_dir: _sass
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jemoji
-  - webrick
-  - jekyll-github-metadata
-
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-
-# Robots are welcome
-include:
-  - robots.txt
-
-# Excerpt separator
-excerpt_separator: <!--more-->
+  style: compressed

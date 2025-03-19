@@ -2,11 +2,30 @@
 layout: default
 ---
 
-<article class="page">
+<!-- begin page -->
+<div class="container">
 
-  <h1>{{ page.title }}</h1>
+  <article class="page">
 
-  <div class="entry">
-    {{ content }}
-  </div>
-</article>
+    <div class="page__info">
+      <h1 class="page__title">{{ page.title | escape }}</h1>
+      {% if page.description %}
+        <p class="page__description">{{ page.description | escape }}</p>
+      {% endif %}
+    </div>
+
+  
+    {% if page.image %}
+    <div class="page-image">
+      <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+    </div>
+    {% endif %}
+
+    <div class="page__content">
+      {{ content }}
+    </div>
+
+  </article>
+
+</div>
+<!-- end page -->
