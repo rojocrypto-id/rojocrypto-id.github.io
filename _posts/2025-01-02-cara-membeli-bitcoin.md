@@ -17,7 +17,7 @@ Jika kalian menemui kebingungan di salah satu poin pada artikel ini, jangan sung
 
 Bitcoin merupakan salah satu aset digital dengan performa terbaik sepanjang sejarah. Kini Bitcoin juga telah diakui sebagai aset yang layak diperhitungkan, semakin banyak yang berinvestasi di Bitcoin, baik perorangan maupun perusahaan. 
 
-Pertanyaan selanjutnya yang paling banyak ditanyakan di *channel* YouTube saya adalah "Kapan waktu yang tepat untuk membeli Bitcoin". Jawabannya tergantung dari tujuan kalian membeli Bitcoin itu sendiri.
+Pertanyaan selanjutnya yang paling banyak ditanyakan di [*channel* YouTube](https://youtube.com/@profesorcloverid) saya adalah "Kapan waktu yang tepat untuk membeli Bitcoin". Jawabannya tergantung dari tujuan kalian membeli Bitcoin itu sendiri.
 
 Jika kalian membeli Bitcoin untuk trading harian (beli di harga rendah lalu menjualnya saat harganya naik), maka kalian butuh mempelajari banyak strategi trading. Dan saya pribadi menghindari cara ini. 
 
@@ -49,23 +49,23 @@ Di tahun 2025 ini membeli Bitcoin di Indonesia jauh lebih mudah karena jumlah *e
 
 Menggunakan *exchange* lokal teregulasi sangat penting karena setiap *exchange* tersebut harus mematuhi serangkaian peraturan yang ditetapkan oleh pemerintah. Dengan begitu kita sebagai pengguna lebih tenang dalam menggunakannya.
 
-Metode deposit yang ditawarkan juga lebih beragam. Selain menggunakan transfer bank, kini kita dapat mendepositkan uang ke *exchange* menggunakan *virtual account*, *e-wallet* dan lainnya.
+Metode deposit yang ditawarkan juga lebih beragam. Selain menggunakan transfer bank, kini kita dapat mendepositkan uang ke [*exchange*](https://rojocrypto.com/exchange/) menggunakan *virtual account*, *e-wallet* dan lainnya.
 
 ### Exchange Lokal untuk Membeli Bitcoin
 
 Dibawah ini adalah beberapa *exchange* lokal yang saya rekomendasikan dan saya sendiri memang telah menggunakannya. Daftar dibawah ini mungkin akan berubah dari waktu ke waktu seiring dengan bertambahnya *exchange* lokal yang saya coba. 
 
-**Pintu**
+#### Pintu
 
-Saya selalu merasa bahwa Pintu adalah Coinbase-nya Indonesia. Aplikasi ini memiliki tampilan yang simpel dan mudah digunakan, sehingga tidak membuat bingung para pemula yang baru mencoba berinvestasi Bitcoin. 
+Saya selalu merasa bahwa Pintu adalah "Coinbase-nya Indonesia". Aplikasi ini memiliki tampilan yang simpel dan mudah digunakan, sehingga tidak membuat bingung para pemula yang baru mencoba berinvestasi Bitcoin. 
 
 Jika kalian benar-benar pemula dan baru pertama kali ingin berinvestasi di Bitcoin, saya sangat merekomendasikan untuk menggunakan aplikasi Pintu. Jangan lupa untuk menggunakan kode referral saya dibawah ini:
 
 ![Kode referral pintu](/assets/image/ref-pintu.png)
 
-Dengan menggunakan kode *referral* saya, kalian akan mendapatkan bonus sebesar 0.0004% setiap kali membeli atau pun menjual Bitcoin (atau crypto lainnya). Dengan kata lain, jumlah Bitcoin yang kalian dapatkan akan lebih banyak. 
+Dengan menggunakan kode *referral* saya, kalian akan mendapatkan bonus sebesar 0.004% setiap kali membeli atau pun menjual Bitcoin (atau crypto lainnya). Dengan kata lain, jumlah Bitcoin yang kalian dapatkan akan lebih banyak. 
 
-**Tokocrypto**
+#### Tokocrypto
 
 *Exchange* lokal berikutnya yang juga secara rutin saya gunakan untuk berinvestasi Bitcoin adalah Tokocrypto. Salah satu fitur Tokocrypto yang saya sukai adalah adanya integrasi dengan [blu](https://blubybcadigital.id/).
 
@@ -75,13 +75,13 @@ Klik tombol dibawah ini jika ingin membuat akun di Tokocrypto dan mendapatkan di
 
 <a href="https://www.tokocrypto.com/account/signup?ref=PROFESOR" class="btn btn-primary">Daftar Tokocrypto</a>
 
-**Luno**
+#### Luno
 
 Ini merupakan *exchange* lokal yang *underrated*. Jarang sekali orang yang membahasnya di internet, terutama para pengguna *crypto* di Indonesia. 
 
 Alasan kenapa saya menyukai aplikasi ini adalah karena Luno memiliki beberapa kelebihan yang tidak dimiliki oleh [*exchange*](https://rojocrypto.com/exchange/) lokal lainnya, seperti: biaya *withdraw* Bitcoin yang dinamis, antarmuka yang simpel dan sederhana, dan masih banyak lagi. 
 
-[**Indodax**](https://indodax.com/ref/yusyulianto/1)
+#### [Indodax](https://indodax.com/ref/yusyulianto/1)
 
 Ini merupakan *exchange* lokal tertua dan pertama di Indonesia. *Exchange* ini sudah ada sejak tahun 2012, jauh sebelum *exchange* lokal lainnya ada.
 
@@ -146,7 +146,7 @@ Sama seperti emas, kita tidak perlu membeli 1 kilogram emas secara langsung. Kit
 
 Membeli Bitcoin melalui *exchange* mewajibkan kalian untuk melakukan [KYC](https://rojocrypto.com/kyc/) . Kalian harus memfoto wajah dan KTP untuk dapat menggunakan *exchange* tersebut secara penuh. 
 
-Sebagian diantara kalian mungkin ada yang kurang nyama untuk membagikan foto wajah dan KTP ke [*exchange*](https://rojocrypto.com/exchange/). Lantas, adakah cara alternatif untuk membeli Bitcoin tanpa melalui *exchange*? Tentu saja ada. 
+Sebagian diantara kalian mungkin ada yang kurang nyaman untuk membagikan foto wajah dan KTP ke [*exchange*](https://rojocrypto.com/exchange/). Lantas, adakah cara alternatif untuk membeli Bitcoin tanpa melalui *exchange*? Tentu saja ada. 
 
 Kalian dapat membeli Bitcoin dari pengguna Bitcoin lainnya. Kalian dapat mencarinya di internet, seperti di komunitas Bitcoin. Namun tentu saja cara ini datang dengan resikonya sendiri. 
 
@@ -170,11 +170,11 @@ Banyak *exchange* lain yang tidak "sebaik" Indodax dan tidak mengembalikan Bitco
 
 Karenanya, menyimpan Bitcoin di dompet kita sendiri sangatlah penting. Jadi jika sewaktu-waktu *exchange* yang kita gunakan terkena *hack* atau bangkrut, Bitcoin yang pernah kita beli tetap aman di dompet kita. 
 
-Dompet atau *wallet* Bitcoin terbagi menjadi 2 jenis. Yaitu *software wallet* dan *hardware wallet*. Seperti namanya, *software wallet* merupakan dompet Bitcoin dalam bentuk aplikasi Android ataupun aplikasi di PC. Umumnya kita dapat menggunakan *software wallet* secara gratis.
+Dompet atau *wallet* Bitcoin terbagi menjadi 2 jenis. Yaitu *software wallet* dan [*hardware wallet*](https://rojocrypto.com/hardware-wallet/). Seperti namanya, *software wallet* merupakan dompet Bitcoin dalam bentuk aplikasi Android ataupun aplikasi di PC. Umumnya kita dapat menggunakan *software wallet* secara gratis.
 
 Sedangkan *hardware wallet* adalah dompet Bitcoin dalam bentuk perangkat keras tersendiri. Untuk dapat menggunakan *hardware wallet*, kita harus membelinya. Setiap pabrikan *hardware wallet* memiliki model yang berbeda-beda dengan harga yang bervariasi pula.
 
-Contoh *software wallet* yang dapat kalian gunakan untuk menyimpan Bitcoin adalah [Electrum](https://electrum.org/?utm_source=chatgpt.com), [Green](https://blockstream.com/green/?utm_source=chatgpt.com). Sedangkan contoh *hardware wallet* adalah Trezor, Ledger, [Safepal](https://tokopedia.link/DXLGGgBVCQb) dan masih banyak lagi.
+Contoh *software wallet* yang dapat kalian gunakan untuk menyimpan Bitcoin adalah [Electrum](https://electrum.org/?utm_source=chatgpt.com), [Green](https://blockstream.com/green/?utm_source=chatgpt.com). Sedangkan contoh *hardware wallet* adalah [Trezor](https://tokopedia.link/D0L45OfAJRb), [Ledger](https://tokopedia.link/TfuU8joAJRb), [Safepal](https://tokopedia.link/DXLGGgBVCQb) dan masih banyak lagi.
 
 ## Kesimpulan
 
