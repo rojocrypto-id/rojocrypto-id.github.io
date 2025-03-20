@@ -31,7 +31,7 @@ Setiap transaksi divalidasi oleh jaringan komputer ([*node*](https://rojocrypto.
 
 Mining (penambangan) adalah aktivitas menggunakan daya komputasi untuk memverifikasi transaksi dan menciptakan unit *cryptocurrency* baru. Penambang menerima imbalan dalam bentuk koin sebagai insentif atas kontribusinya.
 
-Dompet digital (wallet) digunakan untuk menyimpan kunci pribadi ([*private key*](https://rojocrypto.com/public-key)) yang mengakses kepemilikan *cryptocurrency*. Tanpa kunci ini, aset digital tidak dapat dipindahkan atau digunakan.
+Dompet digital (*wallet*) digunakan untuk menyimpan kunci pribadi ([*private key*](https://rojocrypto.com/public-key)) yang mengakses kepemilikan *cryptocurrency*. Tanpa kunci ini, aset digital tidak dapat dipindahkan atau digunakan.
 
 Transaksi *cryptocurrency* bersifat anonim karena tidak memerlukan data pribadi seperti nama atau alamat. Namun, catatan transaksi tetap publik dan dapat dilacak di *blockchain*.
 
@@ -55,9 +55,9 @@ Setelah akun aktif, deposit dana melalui transfer bank atau metode pembayaran la
 
 Simpan aset di dompet pribadi ([*hardware wallet*](https://rojocrypto.com/hardware-wallet) atau *software wallet*) untuk keamanan maksimal. Hindari menyimpan dana besar di *exchange* karena risiko peretasan.
 
-Untuk transaksi harian, dompet digital seperti Electrum atau Trust Wallet memudahkan pengiriman/penerimaan aset. Selalu periksa alamat dompet tujuan sebelum mengirim dana.
+Untuk transaksi harian, dompet digital seperti [Electrum](https://electrum.org) atau Trust Wallet memudahkan pengiriman/penerimaan aset. Selalu periksa alamat dompet tujuan sebelum mengirim dana.
 
-Pantau pergerakan harga melalui aplikasi seperti CoinMarketCap atau CoinGecko. Mulailah dengan modal kecil dan tingkatkan pengetahuan sebelum mengambil keputusan besar.
+Pantau pergerakan harga melalui aplikasi seperti [CoinMarketCap](https://coinmarketcap.com/) atau [CoinGecko](https://www.coingecko.com/). Mulailah dengan modal kecil dan tingkatkan pengetahuan sebelum mengambil keputusan besar.
 
 ## Risiko dan Keuntungan Cryptocurrency (Apa yang Perlu Diwaspadai?)
 

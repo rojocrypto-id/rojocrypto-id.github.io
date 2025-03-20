@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-09-cara-kerja-blockchain.md",
+                "file": "2025-01-08-apa-itu-cryptocurrency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-09-cara-kerja-blockchain"
+              "title": "2025-01-08-apa-itu-cryptocurrency"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-01-09-cara-kerja-blockchain.md",
+                "file": "2025-01-08-apa-itu-cryptocurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-09-cara-kerja-blockchain"
+              "title": "Backlinks for 2025-01-08-apa-itu-cryptocurrency"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-01-09-cara-kerja-blockchain.md",
+                "file": "2025-01-08-apa-itu-cryptocurrency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-09-cara-kerja-blockchain"
+              "title": "Outgoing links from 2025-01-08-apa-itu-cryptocurrency"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-09-cara-kerja-blockchain.md",
+                "file": "2025-01-08-apa-itu-cryptocurrency.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-09-cara-kerja-blockchain"
+              "title": "Outline of 2025-01-08-apa-itu-cryptocurrency"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be955e78e68770f8",
+  "active": "9086dff737a1129e",
   "lastOpenFiles": [
+    "2025-01-09-cara-kerja-blockchain.md",
     "2025-01-01-nft.md",
     "2025-01-01-node.md",
     "2025-01-01-non-custodial-wallet.md",
@@ -194,7 +195,6 @@
     "2025-01-03-apa-itu-bitcoin.md",
     "2025-01-04-hardware-wallet-terbaik.md",
     "2025-01-05-perbedaan-bitcoin-ethereum-altcoin.md",
-    "2025-01-06-kesalahan-pemula-investasi-crypto.md",
-    "2025-01-07-apa-itu-stablecoin.md"
+    "2025-01-06-kesalahan-pemula-investasi-crypto.md"
   ]
 }
