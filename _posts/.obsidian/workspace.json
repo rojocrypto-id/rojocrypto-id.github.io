@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blocha",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9086dff737a1129e",
+  "active": "be955e78e68770f8",
   "lastOpenFiles": [
     "2025-01-01-nft.md",
     "2025-01-01-node.md",

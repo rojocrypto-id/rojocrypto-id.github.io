@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bagaimana Blockhain Bekerja? Penjelasan Sederhana
+title: Bagaimana Blockchain Bekerja? Penjelasan Sederhana
 categories:
   - Bitcoin
 ---
