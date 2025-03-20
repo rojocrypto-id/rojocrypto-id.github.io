@@ -9,4 +9,4 @@ Blockchain adalah teknologi yang mencatat transaksi yang biasanya digunakan di *
 
 Transaksi yang tercatat di *blockchain* bersifat final, yang artinya tidak dapat diubah oleh siapapun setelah tercatat. *Blockchain* bersifat terdesentralisasi, yang artinya tidak bergantung pada satu entitas tertentu. 
 
-Jika satu *nodes* mati, maka [*node*](https://rojocrypto.com/) lain yang masih aktif tetap dapat terus mencatat transaksi yang dilakukan pengguna.
+Jika satu *nodes* mati, maka [*node*](https://rojocrypto.com/node) lain yang masih aktif tetap dapat terus mencatat transaksi yang dilakukan pengguna.
