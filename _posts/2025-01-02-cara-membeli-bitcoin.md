@@ -49,7 +49,7 @@ Di tahun 2025 ini membeli Bitcoin di Indonesia jauh lebih mudah karena jumlah *e
 
 Menggunakan *exchange* lokal teregulasi sangat penting karena setiap *exchange* tersebut harus mematuhi serangkaian peraturan yang ditetapkan oleh pemerintah. Dengan begitu kita sebagai pengguna lebih tenang dalam menggunakannya.
 
-Metode deposit yang ditawarkan juga lebih beragam. Selain menggunakan transfer bank, kini kita dapat mendepositkan uang ke [*exchange*](https://rojocrypto.com/exchange/) menggunakan *virtual account*, *e-wallet* dan lainnya.
+Metode deposit yang ditawarkan juga lebih beragam. Selain menggunakan transfer bank, kini kita dapat mendepositkan uang ke [*exchange*](https://rojocrypto.com/exchange) menggunakan *virtual account*, *e-wallet* dan lainnya.
 
 ### Exchange Lokal untuk Membeli Bitcoin
 
@@ -79,7 +79,7 @@ Klik tombol dibawah ini jika ingin membuat akun di Tokocrypto dan mendapatkan di
 
 Ini merupakan *exchange* lokal yang *underrated*. Jarang sekali orang yang membahasnya di internet, terutama para pengguna *crypto* di Indonesia. 
 
-Alasan kenapa saya menyukai aplikasi ini adalah karena Luno memiliki beberapa kelebihan yang tidak dimiliki oleh [*exchange*](https://rojocrypto.com/exchange/) lokal lainnya, seperti: biaya *withdraw* Bitcoin yang dinamis, antarmuka yang simpel dan sederhana, dan masih banyak lagi. 
+Alasan kenapa saya menyukai aplikasi ini adalah karena Luno memiliki beberapa kelebihan yang tidak dimiliki oleh [*exchange*](https://rojocrypto.com/exchange) lokal lainnya, seperti: biaya *withdraw* Bitcoin yang dinamis, antarmuka yang simpel dan sederhana, dan masih banyak lagi. 
 
 #### [Indodax](https://indodax.com/ref/yusyulianto/1)
 
@@ -136,7 +136,7 @@ Harga Bitcoin hari ini dapat kalian lihat dibawah ini:
 
 Tentu saja. Walaupun saat ini harga Bitcoin misalnya 1 miliar rupiah, kalian tidak perlu membeli 1 Bitcoin.
 
-Kalian dapat membeli pecahan Bitcoin yang disebut sebagai [Satoshi](https://rojocrypto.com/satoshi/). 1 Bitcoin terdiri dari 100.000.000 Satoshi. 1 Satoshi setara dengan 0.00000001 Bitcoin. 
+Kalian dapat membeli pecahan Bitcoin yang disebut sebagai [Satoshi](https://rojocrypto.com/satoshi). 1 Bitcoin terdiri dari 100.000.000 Satoshi. 1 Satoshi setara dengan 0.00000001 Bitcoin. 
 
 Dengan kata lain, kalian dapat membeli Bitcoin bahkan mulai dari 10 ribu rupiah. Jadi tidak perlu khawatir ketika melihat harga Bitcoin yang sudah mencapai miliaran.
 
@@ -144,9 +144,9 @@ Sama seperti emas, kita tidak perlu membeli 1 kilogram emas secara langsung. Kit
 
 ## Cara Lain Membeli Bitcoin
 
-Membeli Bitcoin melalui *exchange* mewajibkan kalian untuk melakukan [KYC](https://rojocrypto.com/kyc/) . Kalian harus memfoto wajah dan KTP untuk dapat menggunakan *exchange* tersebut secara penuh. 
+Membeli Bitcoin melalui *exchange* mewajibkan kalian untuk melakukan [KYC](https://rojocrypto.com/kyc) . Kalian harus memfoto wajah dan KTP untuk dapat menggunakan *exchange* tersebut secara penuh. 
 
-Sebagian diantara kalian mungkin ada yang kurang nyaman untuk membagikan foto wajah dan KTP ke [*exchange*](https://rojocrypto.com/exchange/). Lantas, adakah cara alternatif untuk membeli Bitcoin tanpa melalui *exchange*? Tentu saja ada. 
+Sebagian diantara kalian mungkin ada yang kurang nyaman untuk membagikan foto wajah dan KTP ke [*exchange*](https://rojocrypto.com/exchange). Lantas, adakah cara alternatif untuk membeli Bitcoin tanpa melalui *exchange*? Tentu saja ada. 
 
 Kalian dapat membeli Bitcoin dari pengguna Bitcoin lainnya. Kalian dapat mencarinya di internet, seperti di komunitas Bitcoin. Namun tentu saja cara ini datang dengan resikonya sendiri. 
 
@@ -170,7 +170,7 @@ Banyak *exchange* lain yang tidak "sebaik" Indodax dan tidak mengembalikan Bitco
 
 Karenanya, menyimpan Bitcoin di dompet kita sendiri sangatlah penting. Jadi jika sewaktu-waktu *exchange* yang kita gunakan terkena *hack* atau bangkrut, Bitcoin yang pernah kita beli tetap aman di dompet kita. 
 
-Dompet atau *wallet* Bitcoin terbagi menjadi 2 jenis. Yaitu *software wallet* dan [*hardware wallet*](https://rojocrypto.com/hardware-wallet/). Seperti namanya, *software wallet* merupakan dompet Bitcoin dalam bentuk aplikasi Android ataupun aplikasi di PC. Umumnya kita dapat menggunakan *software wallet* secara gratis.
+Dompet atau *wallet* Bitcoin terbagi menjadi 2 jenis. Yaitu *software wallet* dan [*hardware wallet*](https://rojocrypto.com/hardware-wallet). Seperti namanya, *software wallet* merupakan dompet Bitcoin dalam bentuk aplikasi Android ataupun aplikasi di PC. Umumnya kita dapat menggunakan *software wallet* secara gratis.
 
 Sedangkan *hardware wallet* adalah dompet Bitcoin dalam bentuk perangkat keras tersendiri. Untuk dapat menggunakan *hardware wallet*, kita harus membelinya. Setiap pabrikan *hardware wallet* memiliki model yang berbeda-beda dengan harga yang bervariasi pula.
 

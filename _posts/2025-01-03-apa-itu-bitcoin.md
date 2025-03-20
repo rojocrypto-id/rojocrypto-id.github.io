@@ -5,7 +5,7 @@ categories:
   - Bitcoin
 ---
 
-Bitcoin adalah mata uang digital terdesentralisasi pertama. Semua transaksi Bitcoin dicatat dalam buku besar virtual yang disebut [*blockchain*](https://rojocrypto.com/blockchain/), yang dapat diakses oleh semua orang. Bitcoin memberi kalian kendali penuh atas uang kalian, tidak seperti aset lain yang kalian miliki, yang diatur oleh bank dan pemerintah. Seiring dengan meningkatnya popularitas Bitcoin, semakin banyak tempat yang menerimanya sebagai metode pembayaran.
+Bitcoin adalah mata uang digital terdesentralisasi pertama. Semua transaksi Bitcoin dicatat dalam buku besar virtual yang disebut [*blockchain*](https://rojocrypto.com/blockchain), yang dapat diakses oleh semua orang. Bitcoin memberi kalian kendali penuh atas uang kalian, tidak seperti aset lain yang kalian miliki, yang diatur oleh bank dan pemerintah. Seiring dengan meningkatnya popularitas Bitcoin, semakin banyak tempat yang menerimanya sebagai metode pembayaran.
 
 Jika kalian ingin memahami Bitcoin lebih dalam, tetaplah membaca artikel ini sampai habis.
 
@@ -215,7 +215,7 @@ Beberapa *exchange* lokal tepercaya untuk membeli Bitcoin dalam jumlah kecil ada
   - [Indodax](https://indodax.com/ref/yusyulianto/1)
   - Luno
 
-Kalian dapat melihat panduan lengkapnya pada artikel Rojocrypto yang berjudul [cara membeli Bitcoin](https://rojocrypto.com/cara-membeli-bitcoin/).
+Kalian dapat melihat panduan lengkapnya pada artikel Rojocrypto yang berjudul [cara membeli Bitcoin](https://rojocrypto.com/cara-membeli-bitcoin).
 
 Melakukan transaksi Bitcoin pertama akan membantu kalian memahami **cara membeli Bitcoin, menemukan alamat Bitcoin kalian, berapa lama konfirmasi transaksi,** dan banyak lagi. Ini akan memperkuat pemahaman kalian setelah belajar teori sebelumnya! 🚀
 
@@ -239,8 +239,8 @@ Seperti yang kalian lihat, tujuan utama Bitcoin adalah untuk **memberikan kalian
 
 Jika kalian ingin **mempelajari lebih dalam** tentang cara kerja Bitcoin, kami memiliki artikel tambahan tentang:
 
-- [Cara Membeli Bitcoin](https://rojocrypto.com/cara-membeli-bitcoin/)
-- [Apa itu Blockain?](https://rojocrypto.com/blockchain/)
+- [Cara Membeli Bitcoin](https://rojocrypto.com/cara-membeli-bitcoin)
+- [Apa itu Blockain?](https://rojocrypto.com/blockchain)
 - Dan banyak lagi!
 
 **Revolusi uang** dimulai pada tahun **2009**, dan saat ini kita sedang menyaksikan bagaimana Bitcoin **mengubah sistem keuangan dunia** ke arah yang lebih baik.

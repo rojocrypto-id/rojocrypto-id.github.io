@@ -22,7 +22,7 @@ Beberapa poin dibawah ini mungkin akan dapat meyakinkan kalian untuk berinvestas
 
 **1. Private Key Tidak Terhubung ke Internet**
 
-*Software wallet* menyimpan *private key* di perangkat yang terhubung ke internet (seperti HP, PC dan laptop), membuatnya rentan terhadap serangan *hacker*. Sebaliknya, *hardware wallet* menyimpan [*private key*](https://rojocrypto.com/private-key/) secara *offline*, mengurangi risiko peretasan.
+*Software wallet* menyimpan *private key* di perangkat yang terhubung ke internet (seperti HP, PC dan laptop), membuatnya rentan terhadap serangan *hacker*. Sebaliknya, *hardware wallet* menyimpan [*private key*](https://rojocrypto.com/private-key) secara *offline*, mengurangi risiko peretasan.
 
 Bahkan jika ada *hacker* yang dengan suatu cara dapat mengambil *hardware wallet* kalian, ia masih memerlukan informasi lainnya seperti PIN, *password* hingga catatan *recovery phrase* kalian.
 
@@ -64,7 +64,7 @@ Trezor Model T juga menggunakan *open-source firmware* yang memungkinkan transpa
 
 Ledger Nano X adalah salah satu *hardware wallet* paling populer di pasaran. Dengan dukungan lebih dari 1.800 jenis *cryptocurrency*, perangkat ini menawarkan keamanan tingkat tinggi dengan fitur Bluetooth untuk kemudahan akses.
 
-Selain itu, Ledger Nano X memiliki layar yang cukup besar untuk memudahkan navigasi. Dengan chip keamanan khusus, [*private key*](https://rojocrypto.com/priate-key/) kalian tetap terlindungi bahkan jika perangkat terhubung ke komputer yang terinfeksi *malware*.
+Selain itu, Ledger Nano X memiliki layar yang cukup besar untuk memudahkan navigasi. Dengan chip keamanan khusus, [*private key*](https://rojocrypto.com/priate-key) kalian tetap terlindungi bahkan jika perangkat terhubung ke komputer yang terinfeksi *malware*.
 
 ## 3. Trezor One
 
@@ -90,7 +90,7 @@ Seperti model lainnya dari Ledger, Nano S Plus juga memiliki chip keamanan berse
 
 SafePal S1 adalah *hardware wallet* inovatif yang dirancang untuk memberikan keamanan tingkat tinggi dengan harga terjangkau. Perangkat ini sepenuhnya *offline* dan menggunakan teknologi *air-gapped*, sehingga tidak memerlukan koneksi USB atau Bluetooth.
 
-Keunggulan utama SafePal S1 adalah kemampuannya untuk memindai kode QR saat melakukan transaksi, mengurangi risiko peretasan online. Selain itu, wallet ini didukung oleh Binance, menjadikannya pilihan menarik bagi pengguna yang aktif dalam ekosistem [Binance Smart Chain](https://rojocrypto.com/bep20/).
+Keunggulan utama SafePal S1 adalah kemampuannya untuk memindai kode QR saat melakukan transaksi, mengurangi risiko peretasan online. Selain itu, wallet ini didukung oleh Binance, menjadikannya pilihan menarik bagi pengguna yang aktif dalam ekosistem [Binance Smart Chain](https://rojocrypto.com/bep20).
 
 ## Kesimpulan
 

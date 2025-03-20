@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Bagaimana Blochain Bekerja? Penjelasan Sederhana
+title: Bagaimana Blockhain Bekerja? Penjelasan Sederhana
 categories:
   - Bitcoin
 ---
 
-*Blockchain* sering disebut sebagai teknologi revolusioner di balik *cryptocurrency* seperti Bitcoin. Namun, bagaimana sebenarnya cara kerjanya? Artikel ini akan menjelaskan konsep [*blockchain*](https://rojocrypto.com/blockchain/) secara sederhana, bahkan untuk pemula yang baru pertama kali mendengarnya.
+*Blockchain* sering disebut sebagai teknologi revolusioner di balik *cryptocurrency* seperti Bitcoin. Namun, bagaimana sebenarnya cara kerjanya? Artikel ini akan menjelaskan konsep [*blockchain*](https://rojocrypto.com/blockchain) secara sederhana, bahkan untuk pemula yang baru pertama kali mendengarnya.
 
 ## Apa Itu Blockchain?
 
@@ -19,7 +19,7 @@ Blok-blok ini tersusun secara berurutan dan saling terhubung melalui teknologi k
 
 Pada sistem tradisional, data disimpan di server pusat milik institusi tertentu (contoh: data rekening bank disimpan oleh bank). *Blockchain* menghilangkan ketergantungan ini dengan mendistribusikan data ke ribuan komputer di seluruh dunia yang disebut **_node_**.
 
-Setiap [*node*](https://rojocrypto.com/node/) menyimpan salinan lengkap *blockchain*. Jika ada upaya mengubah data di satu *node*, *node* lain akan menolak perubahan tersebut karena tidak sesuai dengan salinan mereka. Inilah yang membuat *blockchain* sulit dimanipulasi atau diretas.
+Setiap [*node*](https://rojocrypto.com/node) menyimpan salinan lengkap *blockchain*. Jika ada upaya mengubah data di satu *node*, *node* lain akan menolak perubahan tersebut karena tidak sesuai dengan salinan mereka. Inilah yang membuat *blockchain* sulit dimanipulasi atau diretas.
 
 Desentralisasi juga menghindari risiko _single point of failure_ (kegagalan di satu titik), karena tidak ada server pusat yang bisa diretas atau mati. Semakin banyak *node* di jaringan, semakin kuat dan tahan lama sistem *blockchain*.
 
@@ -35,7 +35,7 @@ Untuk menambahkan blok, para penambang (_miner_) harus memecahkan teka-teki mate
 
 Setiap blok memiliki **_hash_** (kode unik seperti sidik jari digital) yang dihasilkan dari data di dalamnya. _Hash_ juga mencakup _hash_ dari blok sebelumnya, sehingga semua blok saling terhubung. Jika seseorang mencoba mengubah data di blok lama, _hash_ blok tersebut akan berubah dan merusak seluruh rantai.
 
-Selain itu, _blockchain_ menggunakan sistem **kriptografi** (penyandian) untuk mengamankan data. Hanya pemilik **kunci pribadi** ([_private key_](https://rojocrypto.com/private-key/)) yang bisa mengakses aset *cryptocurrency* di dompet digitalnya. Tanpa kunci ini, tidak ada yang bisa mencuri atau mengontrol aset Anda.
+Selain itu, _blockchain_ menggunakan sistem **kriptografi** (penyandian) untuk mengamankan data. Hanya pemilik **kunci pribadi** ([_private key_](https://rojocrypto.com/private-key)) yang bisa mengakses aset *cryptocurrency* di dompet digitalnya. Tanpa kunci ini, tidak ada yang bisa mencuri atau mengontrol aset Anda.
 
 Upaya meretas *blockchain* juga memerlukan daya komputasi luar biasa untuk mengubah semua blok di seluruh jaringan secara bersamaan. Hal ini hampir mustahil dilakukan, membuat *blockchain* menjadi salah satu sistem pencatatan paling aman.
 
