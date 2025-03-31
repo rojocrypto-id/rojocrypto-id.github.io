@@ -5,7 +5,7 @@ categories:
   - Kamus
 ---
 
-Hardware wallet adalah perangkat keras yang berfungsi untuk menyimpan kunci pribadi *cryptocurrency* secara *offline*. Dengan cara ini, aset kripto Anda terlindungi dari serangan *online* dan pencurian data.
+*Hardware wallet* adalah perangkat keras yang berfungsi untuk menyimpan kunci pribadi *cryptocurrency* secara *offline*. Dengan cara ini, aset kripto Anda terlindungi dari serangan *online* dan pencurian data.
 
 Perangkat ini memberikan tingkat keamanan yang tinggi karena kunci pribadi tidak pernah tersimpan di internet. Sehingga, meskipun komputer atau *smartphone* Anda terinfeksi *malware*, aset kripto tetap aman.
 
