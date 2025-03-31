@@ -9,4 +9,4 @@ Recovery phrase adalah rangkaian 12-24 kata acak yang berfungsi seperti "kunci u
 
 Tanpa *recovery phrase*, Anda tidak bisa mengembalikan akses ke dompet *cryptocurrency* jika lupa kata sandi atau perangkat bermasalah. Siapapun yang mengetahui rangkaian kata ini bisa menguasai aset Anda, sehingga kerahasiaannya adalah kunci utama keamanan.
 
-Jangan simpan recovery phrase di perangkat digital (*screenshot*, *email*) yang rentan diretas. Sebaiknya tulis di kertas, simpan di tempat rahasia, atau gunakan pelat logam tahan api/air untuk menghindari risiko kerusakan fisik.
+Jangan simpan *recovery phrase* di perangkat digital (*screenshot*, *email*) yang rentan diretas. Sebaiknya tulis di kertas, simpan di tempat rahasia, atau gunakan pelat logam tahan api/air untuk menghindari risiko kerusakan fisik.
