@@ -5,7 +5,7 @@ categories:
   - Kamus
 ---
 
-Dusting attack adalah jenis serangan di dunia *cryptocurrency* di mana peretas mengirimkan sejumlah kecil koin (disebut "*dust*") ke dompet pengguna tanpa sepengetahuan mereka. Tujuan serangan ini adalah melacak transaksi pengguna dan menghubungkan alamat-alamat dompet yang tampaknya anonim.
+*Dusting attack* adalah jenis serangan di dunia *cryptocurrency* di mana peretas mengirimkan sejumlah kecil koin (disebut "*dust*") ke dompet pengguna tanpa sepengetahuan mereka. Tujuan serangan ini adalah melacak transaksi pengguna dan menghubungkan alamat-alamat dompet yang tampaknya anonim.
 
 Setelah dust dikirim, peretas akan memantau pergerakan koin tersebut untuk menganalisis pola transaksi korban. Jika pengguna secara tidak sengaja menggunakan *dust* dalam transaksi berikutnya, peretas bisa mengidentifikasi dan mengungkap identitas asli mereka.
 

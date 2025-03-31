@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-02-cara-membeli-bitcoin.md",
+                "file": "2025-01-01-hardware-wallet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-02-cara-membeli-bitcoin"
+              "title": "2025-01-01-hardware-wallet"
             }
           }
         ]
@@ -170,31 +170,31 @@
   },
   "active": "9086dff737a1129e",
   "lastOpenFiles": [
-    "2025-01-04-hardware-wallet-terbaik.md",
+    "2025-01-01-halving.md",
+    "2025-01-01-fud.md",
+    "2025-01-01-fomo.md",
+    "2025-01-01-exchange.md",
+    "2025-01-01-evm.md",
+    "2025-01-01-ether.md",
+    "2025-01-01-erc20.md",
+    "2025-01-01-dyor.md",
+    "2025-01-01-dusting-attack.md",
+    "2025-01-01-dex.md",
+    "2025-01-01-defi.md",
+    "2025-01-01-dapps.md",
+    "2025-01-01-dao.md",
+    "2025-01-01-custodial-wallet.md",
+    "2025-01-01-cex.md",
+    "2025-01-01-cbdc.md",
+    "2025-01-01-bull-market.md",
+    "2025-01-01-brc20.md",
+    "2025-01-01-blockchain.md",
+    "2025-01-01-bep20.md",
+    "2025-01-01-bear-market.md",
+    "2025-01-01-bagholder.md",
+    "2025-01-01-atomic-swap.md",
+    "2025-01-01-altcoin.md",
     "2025-01-01-airdrop.md",
-    "2025-01-09-cara-kerja-blockchain.md",
-    "2025-01-10-pow-vs-pos.md",
-    "2025-01-11-tren-crypto-2025.md",
-    "2025-01-08-apa-itu-cryptocurrency.md",
-    "2025-01-01-nft.md",
-    "2025-01-01-node.md",
-    "2025-01-01-non-custodial-wallet.md",
-    "2025-01-01-ordinals.md",
-    "2025-01-01-proof-of-stake.md",
-    "2025-01-01-proof-of-work.md",
-    "2025-01-01-public-key.md",
-    "2025-01-01-rug-pull.md",
-    "2025-01-01-satoshi-nakamoto.md",
-    "2025-01-01-smart-contract.md",
-    "2025-01-01-stablecoin.md",
-    "2025-01-01-staking.md",
-    "2025-01-01-stop-loss.md",
-    "2025-01-01-token.md",
-    "2025-01-01-transaction-per-second.md",
-    "2025-01-01-trc20.md",
-    "2025-01-01-web3.md",
-    "2025-01-01-whale.md",
-    "2025-01-01-white-paper.md",
-    "2025-01-01-yield-farming.md"
+    "2025-01-02-cara-membeli-bitcoin.md"
   ]
 }
