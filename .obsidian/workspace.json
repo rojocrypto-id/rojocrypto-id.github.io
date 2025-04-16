@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "0534ec328d141aaf",
+    "id": "5b94b7d7a89f248a",
     "type": "split",
     "children": [
       {
-        "id": "088e1981a80feabb",
+        "id": "bea3f3d71240ac91",
         "type": "tabs",
         "children": [
           {
-            "id": "9086dff737a1129e",
+            "id": "be293f227affb921",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-01-01-KYC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-01-01-KYC"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0006a512a607ce70",
+    "id": "36d83d43779a5feb",
     "type": "split",
     "children": [
       {
-        "id": "0b7f517ebc052174",
+        "id": "da8d162f47985b38",
         "type": "tabs",
         "children": [
           {
-            "id": "be955e78e68770f8",
+            "id": "edb0156aef92c7b3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +44,12 @@
             }
           },
           {
-            "id": "332e0e34ed623796",
+            "id": "a298fb21c1676db2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "kyc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "72be45789b454615",
+            "id": "fa5a4e7592ab4b0b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,28 +70,26 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "399b0ee273d9d1b3",
+    "id": "fefa45162f9174fa",
     "type": "split",
     "children": [
       {
-        "id": "eb8d432951636933",
+        "id": "6658fb43fb86c328",
         "type": "tabs",
         "children": [
           {
-            "id": "a7c31e0b2d42300f",
+            "id": "8f47c6ec3ccdfaf4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-01-02-cara-membeli-bitcoin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-02-cara-membeli-bitcoin"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e76ba4acf8dfcf77",
+            "id": "6fabe97ce4160197",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-01-02-cara-membeli-bitcoin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-02-cara-membeli-bitcoin"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "8076361e62efbebc",
+            "id": "7aa738c8be232950",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,18 +131,17 @@
             }
           },
           {
-            "id": "c3f9b0572776dabb",
+            "id": "ee7064f2d3abea07",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-02-cara-membeli-bitcoin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-02-cara-membeli-bitcoin"
+              "title": "Outline"
             }
           }
         ]
@@ -169,33 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9086dff737a1129e",
-  "lastOpenFiles": [
-    "2025-01-11-tren-crypto-2025.md",
-    "2025-01-01-memecoin.md",
-    "2025-01-01-margin-call.md",
-    "2025-01-01-liquidity-pool.md",
-    "2025-01-01-lightning-network.md",
-    "2025-01-01-leverage.md",
-    "2025-01-01-kyc.md",
-    "2025-01-01-ico.md",
-    "2025-01-01-hodl.md",
-    "2025-01-01-hardware-wallet.md",
-    "2025-01-01-halving.md",
-    "2025-01-01-fud.md",
-    "2025-01-01-fomo.md",
-    "2025-01-01-exchange.md",
-    "2025-01-01-evm.md",
-    "2025-01-01-ether.md",
-    "2025-01-01-erc20.md",
-    "2025-01-01-dyor.md",
-    "2025-01-01-dusting-attack.md",
-    "2025-01-01-custodial-wallet.md",
-    "2025-01-01-dex.md",
-    "2025-01-01-defi.md",
-    "2025-01-01-dapps.md",
-    "2025-01-01-dao.md",
-    "2025-01-01-cex.md",
-    "2025-01-01-cbdc.md"
-  ]
+  "active": "be293f227affb921",
+  "lastOpenFiles": []
 }
